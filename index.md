@@ -1,5 +1,5 @@
 # Katy Karnell  
-##**Communications Strategist and Content Developer**##  
+## Communications Strategist and Content Developer 
 _Behind the AI Hype, Let’s Be Practical._
 
 I’m your human in the loop. I help you clarify your communications goals, implement solutions, and adopt AI tools responsibly.
@@ -66,7 +66,7 @@ These sample projects reflect a blend of content strategy, messaging development
 
 
 ### Black Maternal Health Week (BMHW) Campaign  
-For this comprehensive, multi-channel effort that drove hundreds of toolkit downloads, strengthened partnership, and raised awareness of this critical public health issue, I produced/edited videos, wrote personal narratives, social media and newsletter copy, and managed our vendor who produced the graphics package. During the campaign period, the BMHW webpage became the most-visited page on the agency’s site.
+For this comprehensive, multi-channel effort that drove hundreds of toolkit downloads, strengthened partnership, and raised awareness of this critical public health issue, I produced/edited videos, wrote stories, created social media and newsletter copy, and managed our vendor who produced the graphics package. During the campaign period, the BMHW webpage became the most-visited page on the agency’s site.
 [Watch video or view assets](#)
 
 ### “A Family’s Journey” – Storytelling for Systems Change  

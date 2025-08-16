@@ -18,11 +18,34 @@ toc: false
 
 <!-- Navigation Links -->
 <nav class="jump-links">
-  <a href="#services">What I Do</a> |
-  <a href="#about">About</a> |
-  <a href="#portfolio">Featured Work</a> |
-  <a href="#training">Training</a> |
-  <a href="#contact">Contact</a>
-</nav>
+<!-- What I Do -->
+<section id="services">
+### What I Do
+I help healthcare, public sector, and nonprofit teams solve communication challenges through strategy, clarity, and content that works. Whether you need storytelling, smarter messaging, or help navigating AI tools — I bring deep experience and plain-language thinking to the table.
+</section>
 
-<!-- The rest of the homepage content will go here -->
+<!-- About -->
+<section id="about">
+### About
+I’m Katy Karnell — a communications strategist, writer, and content developer with years of experience in healthcare, public health, and the government sector. I’ve also embraced AI tools as accelerators for good writing, helping teams get better results, faster.  
+📍 Based in Washington, DC | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)
+</section>
+
+<!-- Featured Work -->
+<section id="portfolio">
+### Featured Work
+*Cards with images and blurbs will go here — we’ll build this in the next step.*
+</section>
+
+<!-- Training -->
+<section id="training">
+### Training & Tools
+*We’ll use collapsible sections and summaries to present offerings here — coming next.*
+</section>
+
+<!-- Contact -->
+<section id="contact">
+### Contact
+📬 Reach out if you'd like to collaborate, build clearer content, or explore AI tools for your team:  
+**forwardstory@gmail.com**
+</section>

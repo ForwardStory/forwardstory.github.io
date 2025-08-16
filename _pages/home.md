@@ -13,7 +13,7 @@ toc: false
   <p style="font-size: 1.2em; margin-top: 0;">
     Communications Strategist and Content Creator
   </p>
-  <p><em>Behind the AI hype, let's be practical. I'm your human in the loop — helping you clarify your goals, create content, and achieve results.</em></p>
+  <p><em>I help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.</em></p>
 </header>
 
 <!-- Navigation Links -->
@@ -31,12 +31,14 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
 <section id="about">
 ### About Me
 I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.
+  
 My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.
+
 I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.
+
 I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.
 
-  
-📍 Based in Washington, DC | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)
+📍 Based in Washington, DC but work wherever there is wife! | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)
 </section>
 
 <!-- Featured Work -->
@@ -56,7 +58,7 @@ I don’t overpromise. I help you figure out what’s essential, what’s workin
   <div class="grid__item">
     <img src="/assets/images/Destiny-thumbnail.jpg" alt="Destiny doula story thumbnail">
     <h3>“This is Destiny” – The Power of Doula Care for Better Health</h3>
-    <p>This story of how doula support helped a mom advocate for her needs, foster positive relationships with her doctor, and achieve improved physical and mental health outcomes.</p>
+    <p>This story of how doula support helped a mom advocate for her needs, foster positive relationships with her doctor, and achieve improved physical and mental health.</p>
     <p><a href="#">Read the story</a></p>
   </div>
 
@@ -64,10 +66,26 @@ I don’t overpromise. I help you figure out what’s essential, what’s workin
   <div class="grid__item">
     <img src="/assets/images/Postpartum-thumbnail.jpg" alt="Postpartum PSA thumbnail">
     <h3>National Survey of Children's Health - Branding Video</h3>
-    <p>I designed this video to raise awareness of the National Survey of Children’s Health and strengthen public trust in the agency behind it.</p>
+    <p>I designed this video to raise awareness of this survey, strengthen public trust in the agency behind it, and encourage participation from parents and caregivers.</p>
     <p><a href="#">Watch video</a></p>
   </div>
 
+<!-- Card 4 -->
+  <div class="grid__item">
+    <img src="/assets/images/Postpartum-thumbnail.jpg" alt="Postpartum PSA thumbnail">
+    <h3>“A Family’s Journey” – Storytelling for Systems Change</h3>
+    <p>The story follows one family’s experience navigating complex medical, educational, and everyday challenges, and the critical support they received from their "F2F" center. I wrote this narrative for Congressional decision-makers, support centers in telling their story, and to inform families about available help.</p>
+    <p><a href="#">Read the story</a></p>
+  </div>
+
+<!-- Card 5 -->
+  <div class="grid__item">
+    <img src="/assets/images/F2Fthumbnail.jpg" alt="Postpartum PSA thumbnail">
+    <h3>“A Family’s Journey” – Storytelling for Systems Change</h3>
+    <p>The story follows one family’s experience navigating complex medical, educational, and everyday challenges, and the critical support they received from their "F2F" center. I wrote this narrative for Congressional decision-makers, support centers in telling their story, and to inform families about available help.</p>
+    <p><a href="#">Read the story</a></p>
+  </div>
+  
 </div>
 
 

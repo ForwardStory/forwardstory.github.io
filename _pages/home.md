@@ -44,21 +44,32 @@ I don’t overpromise. I help you figure out what’s essential, what’s workin
 ### Featured Work
 <div class="grid__wrapper">
 
-  <div class="card" style="width: 100%; max-width: 350px; margin: 1em;">
-    <img src="/assets/images/be-inspired-facebook.jpg" alt="Black Maternal Health Week Thumbnail">
+  <!-- Card 1 -->
+  <div class="grid__item">
+    <img src="/assets/images/be-inspired-facebook.jpg" alt="Black Maternal Health Week thumbnail">
     <h3>Black Maternal Health Week Campaign</h3>
-    <p>Multichannel campaign that drove digital engagement and built partnerships.</p>
-    <p><em>Learn more→</em></p>
+    <p>Pioneered and executed a multi-channel campaign, integrating social, video, and written stories, boosting digital engagement and strengthening partner relationships.</p>
+    <p><a href="#">Learn more</a></p>
   </div>
 
-  <div class="card" style="width: 100%; max-width: 350px; margin: 1em;">
-    <img src="/assets/images/clapperboard.jpg" alt="Emergency Evacuation Plan Thumbnail">
-    <h3>This Is Destiny</h3>
-    <p>A story about the power of doula care in supporting better physical and mental health outcomes.</p>
-    <p><em>Read the story</em></p>
+  <!-- Card 2 -->
+  <div class="grid__item">
+    <img src="/assets/images/Destiny-thumbnail.jpg" alt="Destiny doula story thumbnail">
+    <h3>“This is Destiny” – The Power of Doula Care for Better Health</h3>
+    <p>This story of how doula support helped a mom advocate for her needs, foster positive relationships with her doctor, and achieve improved physical and mental health outcomes.</p>
+    <p><a href="#">Read the story</a></p>
+  </div>
+
+  <!-- Card 3 -->
+  <div class="grid__item">
+    <img src="/assets/images/Postpartum-thumbnail.jpg" alt="Postpartum PSA thumbnail">
+    <h3>National Survey of Children's Health - Branding Video</h3>
+    <p>I designed this video to raise awareness of the National Survey of Children’s Health and strengthen public trust in the agency behind it.</p>
+    <p><a href="#">Watch video</a></p>
   </div>
 
 </div>
+
 
 
 <!-- Training -->

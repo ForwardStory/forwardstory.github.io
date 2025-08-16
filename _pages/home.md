@@ -20,14 +20,22 @@ toc: false
 <nav class="jump-links">
 <!-- What I Do -->
 <section id="services">
-### What I Do
-I help healthcare, public sector, and nonprofit teams solve communication challenges through strategy, clarity, and content that works. Whether you need storytelling, smarter messaging, or help navigating AI tools — I bring deep experience and plain-language thinking to the table.
+### What I Can Do for You
+I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.
+
+When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.
+
 </section>
 
 <!-- About -->
 <section id="about">
-### About
-I’m Katy Karnell — a communications strategist, writer, and content developer with years of experience in healthcare, public health, and the government sector. I’ve also embraced AI tools as accelerators for good writing, helping teams get better results, faster.  
+### About Me
+I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.
+My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.
+I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.
+I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.
+
+  
 📍 Based in Washington, DC | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)
 </section>
 

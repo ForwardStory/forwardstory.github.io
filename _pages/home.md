@@ -64,7 +64,7 @@ I don’t overpromise. I help you figure out what’s essential, what’s workin
 
   <!-- Card 3 -->
   <div class="grid__item">
-    <img src="/assets/images/Postpartum-thumbnail.jpg" alt="Postpartum PSA thumbnail">
+    <img src="/assets/images/Postpartum-thumbnail.jpg" alt="NSCH thumbnail">
     <h3>National Survey of Children's Health - Branding Video</h3>
     <p>I designed this video to raise awareness of this survey, strengthen public trust in the agency behind it, and encourage participation from parents and caregivers.</p>
     <p><a href="#">Watch video</a></p>
@@ -72,7 +72,7 @@ I don’t overpromise. I help you figure out what’s essential, what’s workin
 
 <!-- Card 4 -->
   <div class="grid__item">
-    <img src="/assets/images/Postpartum-thumbnail.jpg" alt="Postpartum PSA thumbnail">
+    <img src="/assets/images/F2Fthumbnail.jpg" alt="Family's Journey thumbnail">
     <h3>“A Family’s Journey” – Storytelling for Systems Change</h3>
     <p>The story follows one family’s experience navigating complex medical, educational, and everyday challenges, and the critical support they received from their "F2F" center. I wrote this narrative for Congressional decision-makers, support centers in telling their story, and to inform families about available help.</p>
     <p><a href="#">Read the story</a></p>

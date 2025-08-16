@@ -13,7 +13,7 @@ toc: false
   <p style="font-size: 1.2em; margin-top: 0;">
     Communications Strategist and Content Creator
   </p>
-  <p><em>Behind the AI hype, let's be practical. I'm your human in the loop — helping you clarify your goals, create content, and drive results.</em></p>
+  <p><em>Behind the AI hype, let's be practical. I'm your human in the loop — helping you clarify your goals, create content, and achieve results.</em></p>
 </header>
 
 <!-- Navigation Links -->
@@ -34,8 +34,24 @@ I’m Katy Karnell — a communications strategist, writer, and content develope
 <!-- Featured Work -->
 <section id="portfolio">
 ### Featured Work
-*Cards with images and blurbs will go here — we’ll build this in the next step.*
-</section>
+<div class="grid__wrapper">
+
+  <div class="card" style="width: 100%; max-width: 350px; margin: 1em;">
+    <img src="/assets/images/be-inspired-facebook.jpg" alt="Black Maternal Health Week Thumbnail">
+    <h3>Black Maternal Health Week Campaign</h3>
+    <p>Multichannel campaign that drove digital engagement and built partnerships.</p>
+    <p><em>Learn more→</em></p>
+  </div>
+
+  <div class="card" style="width: 100%; max-width: 350px; margin: 1em;">
+    <img src="/assets/images/clapperboard.jpg" alt="Emergency Evacuation Plan Thumbnail">
+    <h3>This Is Destiny</h3>
+    <p>A story about the power of doula care in supporting better physical and mental health outcomes.</p>
+    <p><em>Read the story</em></p>
+  </div>
+
+</div>
+
 
 <!-- Training -->
 <section id="training">

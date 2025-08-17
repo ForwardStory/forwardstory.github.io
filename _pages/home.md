@@ -15,7 +15,7 @@ toc: false
     Communications Strategist and Content Creator
   </p>
   <p><em>I help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
-  Let’s work together to move from your backstory to your "Forwardstory!"</em></p>
+  Let’s work together to move from your "BackStory" to your "Forwardstory!"</em></p>
 <p>📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 </header>
 
@@ -53,15 +53,15 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
 <!-- About -->
 <section id="about">
 <h2>About Me</h2>
-<p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.<br>
+<p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.</p>
 
-My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.<br>
+<p>My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.</p>
 
-I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.<br>
+<p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
 
-I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.<br>
+<p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>p>
 
-📍 Wherever there is wife! | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</p>
+<p>📍 Wherever there is wife! | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</p>
 </section>
 
 <!-- Featured Work -->

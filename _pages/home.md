@@ -1,17 +1,11 @@
 ---
 layout: single
-sidebar: false
-title: "Home"
-sidebar: false
+classes: wide
 permalink: /
+title: ""
 sidebar: false
 author_profile: false
-sidebar: false
-classes: wide
-sidebar: false
 toc: false
----
-
 ---
 
 <!-- Hero Section -->

@@ -106,14 +106,14 @@ These sample projects reflect a blend of content strategy, messaging development
 
   <!-- Card 5 -->
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
-    <img src="/assets/images/clapperboard.jpg" alt="Film clapperboard thumbnail" style="width: 100%; border-radius: 6px;">
+    <img src="/assets/images/Clapperboard.jpg" alt="Film clapperboard thumbnail" style="width: 100%; border-radius: 6px;">
     <h4>Evacuation Plan – Film Set / Same‑Day Delivery</h4>
     <p>I developed this comprehensive evacuation plan for a high-profile production filming on location. Tailored to the geography and personnel needs of 500 crew and extras, I used AI tools to cut concept-to-delivery time by an estimated 70%, enabling same-day turnaround.<br><em>Details available upon request.</em></p>
   </div>
 
   <!-- Card 6 -->
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
-    <img src="/assets/images/cruiseship1.jpg" alt="Cruise ship thumbnail" style="width: 100%; border-radius: 6px;">
+    <img src="/assets/images/Cruiseship1.jpg" alt="Cruise ship thumbnail" style="width: 100%; border-radius: 6px;">
     <h4>Marketing Package – Alaska Tourism Pitch / Cruise Outreach</h4>
     <p>I created this marketing package (proposal, cover letter, press release) for a small recreation and entertainment business in Alaska who then successfully secured cruise rep engagement. Using AI tools for research, drafting, and image generation under a tight deadline.<br><em>Details available upon request.</em></p>
   </div>

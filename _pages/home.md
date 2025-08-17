@@ -66,11 +66,10 @@ I don’t overpromise. I help you figure out what’s essential, what’s workin
 
 <!-- Featured Work -->
 <section id="portfolio">
-
 <h2>Featured Work<h2>
-<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press released, speeches, and written stories to newsletters, website overhauls, and fact sheets. I’ve also designed and delivered training.
+<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press released, speeches, and written stories to newsletters, website overhauls, and fact sheets. I’ve also designed and delivered training.</p>
 
-These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Or, access a longer listing of my work.</p>
+<p>These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Or, access a longer listing of my work.</p>
 
 <div class="card-grid" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5em;">
 

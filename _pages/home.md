@@ -1,12 +1,12 @@
 ---
 layout: single
-classes: wide
-permalink: /
 title: ""
-sidebar: false
+permalink: /
 author_profile: false
+classes: wide
 toc: false
 ---
+
 
 <!-- Hero Section -->
 <header class="hero">

@@ -157,6 +157,6 @@ The goal isn’t to revolutionize your processes — it’s to help your team us
 <!-- Contact -->
 <section id="contact">
 <h2>Contact</h2>
-<p>📍 Wherever there is wife! | Reach out if you'd like to collaborate, build clearer content, or explore AI tools for your team:</p>  
+<p>📍 Wherever there is wifi | Reach out if you'd like to collaborate, build clearer content, or explore AI tools for your team:</p>  
 <p>📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 </section>

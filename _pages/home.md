@@ -15,8 +15,8 @@ toc: false
     Communications Strategist and Content Creator
   </p>
   <p><em>I help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
-  Let’s work together to move from your backstory to your ForwardStory!<em>
-📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</p>
+  Let’s work together to move from your backstory to your ForwardStory!</em></p>
+<p>📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 </header>
 
 <!-- Navigation Links -->

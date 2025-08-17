@@ -22,6 +22,9 @@ github_username: ForwardStory
 linkedin: https://www.linkedin.com/in/katy-karnell-839a217b/
 minimal_mistakes_skin: default
 search: true
+# Use the navigation defined in _data/navigation.yml
+navigation:
+  main: main
 
 # Build settings
 markdown: kramdown

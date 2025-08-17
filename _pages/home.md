@@ -1,10 +1,15 @@
 ---
 layout: single
+sidebar: false
 title: "Home"
 permalink: /
 author_profile: false
+sidebar: false
 classes: wide
+sidebar: false
 toc: false
+---
+
 ---
 
 <!-- Hero Section -->

@@ -147,7 +147,7 @@ Whether you're building a brand, launching a campaign, or briefing leadership, t
   <li>
     <h4>🟣 AI-Literacy for Nontechnical Teams: Be the Human in the Loop</h4><br>
     This session is for people who don’t build AI — but are expected to use it. I offer a plain-language overview of generative AI, what it’s good at (and not), and how to think critically about using it in your daily work.
-The goal isn’t to revolutionize your processes — it’s to help your team use AI tools more thoughtfully, improve your outputs, and stay alert to the limits and risks. You’ll walk away with a practical, no-hype understanding of where these tools fit in your work.</li>p
+The goal isn’t to revolutionize your processes — it’s to help your team use AI tools more thoughtfully, improve your outputs, and stay alert to the limits and risks. You’ll walk away with a practical, no-hype understanding of where these tools fit in your work.
   </li>
   
 </ul>

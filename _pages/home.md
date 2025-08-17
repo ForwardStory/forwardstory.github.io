@@ -90,7 +90,7 @@ These sample projects reflect a blend of content strategy, messaging development
 
   <!-- Card 3 -->
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
-    <img src="/assets/images/NSCH_thumbnail.jpg" alt="NSCH thumbnail" style="width: 100%; border-radius: 6px;">
+    <img src="/assets/images/NSCH_Thumbnail.jpg" alt="NSCH thumbnail" style="width: 100%; border-radius: 6px;">
     <h4>National Survey of Children's Health - Branding Video</h4>
     <p>I designed this video to raise awareness of this survey, strengthen public trust in the agency behind it, and encourage participation from parents and caregivers.</p>
     <p><a href="#">Watch video</a></p>

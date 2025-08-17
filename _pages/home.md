@@ -15,7 +15,7 @@ toc: false
     Communications Strategist and Content Creator
   </p>
   <p><em>I help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
-  Let’s work together to move from your "BackStory" to your "Forwardstory!"</em></p>
+  Let’s work together to move from your BackStory to your Forwardstory!</em></p>
 <p>📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 </header>
 
@@ -41,7 +41,7 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
   </li>
   <li>
     <h4>🟣 AI Integration & Team Training</h4><br>
-    Many workplaces feel the pressure to use AI, but don’t have a clear path forward and are overwhelmed. I help teams build literacy, explore the tools that fit their needs, and use AI to create better, more efficient content — with intention, not urgency.
+    Many workplaces feel the pressure to use AI, but don’t have a clear path forward and are overwhelmed. I help teams build literacy, explore the tools that fit their needs, and use AI to create better, more efficient content — with intention, not urgency.</li>p
   </li>
   
 </ul>

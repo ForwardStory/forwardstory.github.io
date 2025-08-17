@@ -33,8 +33,14 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
 header_pages:
   - _pages/home.md
+  - _pages/about.md
+  - _pages/portfolio.md
+  - _pages/training.md
+  - _pages/contact.md
+
 
 
 # Exclude from processing.

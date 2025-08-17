@@ -43,10 +43,10 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
     <h4>🟣 AI Integration & Team Training</h4><br>
     Many workplaces feel the pressure to use AI, but don’t have a clear path forward and are overwhelmed.<br><br> I help teams build literacy, explore the tools that fit their needs, and use AI to create better, more efficient content — with intention, not urgency.
   </li>
+  <li>
 </ul>
 
 <p><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
-
 
 </section>
 

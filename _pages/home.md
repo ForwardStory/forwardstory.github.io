@@ -61,7 +61,6 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
 
 <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
 
-<p>📍 Wherever there is wife! | 📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 </section>
 
 <!-- Featured Work -->
@@ -129,7 +128,30 @@ These sample projects reflect a blend of content strategy, messaging development
 <!-- Training -->
 <section id="training">
 <h2>Training</h2>
-<p>*We’ll use collapsible sections and summaries to present offerings here — coming next.*</p>
+<p>Need help getting practical in this evolving AI landscape? Struggle with helping your teams to write clearly and effectively? Looking for someone to help enable your nontechnical teams to use AI tools and understand what they can and can’t quite do?</p>
+
+<p>I can help! Feel free to get in touch.</p>
+<p>📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
+
+<h3>Offerings Include</h3>
+<ul>
+  <li>
+ <h4>🟣 Write It Clearly: Training for Teams (with AI-Enhanced Support)</h4><br>
+    Helps teams write clearly and confidently — with or without AI tools. You’ll learn how to turn complex ideas into accessible, actionable content, and how to use GenAI to support your process, not replace it.
+  </li>
+  <li>
+    <h4>🟣 Storytelling: Craft Messages That Stick, Scale, and Inspire</h4><br>
+    Helps teams and individuals bring their mission, products, or services to life with compelling, structured stories. You’ll learn how to connect messaging to audience needs, organize your ideas for clarity and flow, and use GenAI to prototype content quickly — without losing your voice.
+Whether you're building a brand, launching a campaign, or briefing leadership, the right story drives understanding and engagement.
+  </li>
+  <li>
+    <h4>🟣 AI-Literacy for Nontechnical Teams: Be the Human in the Loop</h4><br>
+    This session is for people who don’t build AI — but are expected to use it. I offer a plain-language overview of generative AI, what it’s good at (and not), and how to think critically about using it in your daily work.
+The goal isn’t to revolutionize your processes — it’s to help your team use AI tools more thoughtfully, improve your outputs, and stay alert to the limits and risks. You’ll walk away with a practical, no-hype understanding of where these tools fit in your work.</li>p
+  </li>
+  
+</ul>
+
 </section>
 
 <!-- Contact -->

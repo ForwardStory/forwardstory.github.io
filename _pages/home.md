@@ -32,17 +32,16 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
 
 <ul>
   <li>
- <strong>🟣 Messaging & Content Packages</strong><br>
+ <h4>🟣 Messaging & Content Packages</h4><br>
     Includes marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.
   </li>
   <li>
-    <strong>🟣 Content Strategy & Planning</strong><br>
+    <h4>🟣 Content Strategy & Planning</h4><br>
     I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.
   </li>
   <li>
-    <strong>🟣 AI Integration & Team Training</strong><br>
-    Many workplaces feel the pressure to use AI, but don’t have a clear path forward and are overwhelmed.<br><br>
-    I help teams build literacy, explore the tools that fit their needs, and use AI to create better, more efficient content — with intention, not urgency.
+    <h4>🟣 AI Integration & Team Training</h4><br>
+    Many workplaces feel the pressure to use AI, but don’t have a clear path forward and are overwhelmed.<br><br> I help teams build literacy, explore the tools that fit their needs, and use AI to create better, more efficient content — with intention, not urgency.
   </li>
 </ul>
 

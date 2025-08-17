@@ -16,7 +16,7 @@ toc: false
   </p>
   <p><em>I help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
   Let’s work together to move from your backstory to your ForwardStory!
-📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</em></p>
+📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</p>
 </header>
 
 <!-- Navigation Links -->

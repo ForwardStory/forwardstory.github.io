@@ -82,7 +82,7 @@ These sample projects reflect a blend of content strategy, messaging development
 
   <!-- Card 2 -->
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
-    <img src="/assets/images/Destiny-thumbnail.jpg" alt="Doula story thumbnail" style="width: 100%; border-radius: 6px;">
+    <img src="/assets/images/BMWH23_Destiny.jpg" alt="Doula story thumbnail" style="width: 100%; border-radius: 6px;">
     <h4>“This is Destiny” – The Power of Doula Care for Better Health</h4>
     <p>This story of how doula support helped a mom advocate for her needs, foster positive relationships with her doctor, and achieve improved physical and mental health.</p>
     <p><a href="#">Read the story</a></p>

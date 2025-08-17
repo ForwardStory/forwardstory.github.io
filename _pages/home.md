@@ -2,7 +2,9 @@
 layout: single
 sidebar: false
 title: "Home"
+sidebar: false
 permalink: /
+sidebar: false
 author_profile: false
 sidebar: false
 classes: wide

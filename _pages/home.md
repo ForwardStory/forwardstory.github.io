@@ -55,11 +55,11 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
 <h2>About Me</h2>
 <p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.<br>
 
-My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.
+My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.<br>
 
-I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.
+I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.<br>
 
-I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.
+I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.<br>
 
 📍 Wherever there is wife! | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</p>
 </section>
@@ -135,6 +135,6 @@ These sample projects reflect a blend of content strategy, messaging development
 <!-- Contact -->
 <section id="contact">
 <h2>Contact</h2>
-<p>📍 Wherever there is wife! |📬 Reach out if you'd like to collaborate, build clearer content, or explore AI tools for your team:  
-📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
+<p>📍 Wherever there is wife! | Reach out if you'd like to collaborate, build clearer content, or explore AI tools for your team:</p>  
+<p>📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 </section>

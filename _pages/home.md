@@ -59,9 +59,9 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
 
 <p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
 
-<p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>p>
+<p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
 
-<p>📍 Wherever there is wife! | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</p>
+<p>📍 Wherever there is wife! | 📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 </section>
 
 <!-- Featured Work -->

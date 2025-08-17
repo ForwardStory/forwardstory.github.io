@@ -24,9 +24,9 @@ toc: false
 <!-- What I Do -->
 <section id="services">
 <h2>What I Can Do for You</h2>
-</p>I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.
+<p>I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.
 
-When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.<p>
+When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.</p>
 
 <h3>Core Services</h3>
 
@@ -41,9 +41,9 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
   </li>
   <li>
     <h4>🟣 AI Integration & Team Training</h4><br>
-    Many workplaces feel the pressure to use AI, but don’t have a clear path forward and are overwhelmed.<br><br> I help teams build literacy, explore the tools that fit their needs, and use AI to create better, more efficient content — with intention, not urgency.
+    Many workplaces feel the pressure to use AI, but don’t have a clear path forward and are overwhelmed. I help teams build literacy, explore the tools that fit their needs, and use AI to create better, more efficient content — with intention, not urgency.
   </li>
-  <li>
+  
 </ul>
 
 <p><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
@@ -53,7 +53,7 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
 <!-- About -->
 <section id="about">
 <h2>About Me</h2>
-<p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.
+<p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.<br>
 
 My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.
 
@@ -61,15 +61,15 @@ I’ve helped teams define their core messages, write for multiple audiences, an
 
 I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.
 
-📍 Wherever there is wife! | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)<p>
+📍 Wherever there is wife! | 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</p>
 </section>
 
 <!-- Featured Work -->
 <section id="portfolio">
-<h2>Featured Work<h2>
-<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press released, speeches, and written stories to newsletters, website overhauls, and fact sheets. I’ve also designed and delivered training.</p>
+<h2>Featured Work</h2>
+<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press released, speeches, and written stories to newsletters, website overhauls, and fact sheets. I’ve also designed and delivered training.
 
-<p>These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Or, access a longer listing of my work.</p>
+These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Or, access a longer listing of my work.</p>
 
 <div class="card-grid" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5em;">
 
@@ -128,13 +128,13 @@ I don’t overpromise. I help you figure out what’s essential, what’s workin
 
 <!-- Training -->
 <section id="training">
-</h2>Training<h2>
-<p>*We’ll use collapsible sections and summaries to present offerings here — coming next.*,p>
+<h2>Training</h2>
+<p>*We’ll use collapsible sections and summaries to present offerings here — coming next.*</p>
 </section>
 
 <!-- Contact -->
 <section id="contact">
-<h2>Contact<h2>
+<h2>Contact</h2>
 <p>📍 Wherever there is wife! |📬 Reach out if you'd like to collaborate, build clearer content, or explore AI tools for your team:  
-📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</p>
+📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 </section>

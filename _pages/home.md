@@ -53,7 +53,7 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
 <!-- About -->
 <section id="about">
 <h2>About Me</h2>
-<p></p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.
+<p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.
 
 My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.
 

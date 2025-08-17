@@ -15,7 +15,7 @@ toc: false
     Communications Strategist and Content Creator
   </p>
   <p><em>I help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
-  Let’s work together to move from your backstory to your ForwardStory!
+  Let’s work together to move from your backstory to your ForwardStory!<em>
 📬 [forwardstory@gmail.com](mailto:forwardstory@gmail.com)</p>
 </header>
 
@@ -28,13 +28,34 @@ toc: false
 
 When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.<p>
 
+<h3>Core Services</h3>
+
+<ul>
+  <li>
+ <strong>🟣 Messaging & Content Packages</strong><br>
+    Includes marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.
+  </li>
+  <li>
+    <strong>🟣 Content Strategy & Planning</strong><br>
+    I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.
+  </li>
+  <li>
+    <strong>🟣 AI Integration & Team Training</strong><br>
+    Many workplaces feel the pressure to use AI, but don’t have a clear path forward and are overwhelmed.<br><br>
+    I help teams build literacy, explore the tools that fit their needs, and use AI to create better, more efficient content — with intention, not urgency.
+  </li>
+</ul>
+
+<p><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
+
+
 </section>
 
 <!-- About -->
 <section id="about">
 <h2>About Me</h2>
 <p></p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.
-  
+
 My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.
 
 I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.

@@ -6,6 +6,28 @@ author_profile: false
 classes: wide
 toc: false
 ---
+<style>
+/* Services expander — inline so it works even without site.css */
+#services summary {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  cursor: pointer;
+}
+#services .plus { font-weight: 700; }
+
+/* Bullet list styling */
+#services .service-list {
+  margin: 1rem 0 1rem 1.5rem;   /* space above & below list */
+  padding-left: .5rem;
+  font-size: .95rem;
+  line-height: 1.55;
+}
+#services .service-list li + li { margin-top: .75rem; }
+
+/* Space before the italicized note */
+#services .exp-note { margin-top: 1rem; }
+</style>
 
 
 <!-- Hero Section -->

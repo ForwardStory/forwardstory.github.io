@@ -27,3 +27,34 @@ body { line-height: 1.6; margin: 0; }
 .expander summary::-webkit-details-marker { display: none; }
 .expander summary::after { content: "+"; float: right; }
 .expander[open] summary::after { content: "–"; }
+
+/* Services expander */
+#services summary {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  cursor: pointer;
+}
+
+/* cancel global + duplication if needed */
+#services summary::after { content: ""; }
+
+#services .plus { font-weight: 700; }
+
+/* Bullet list styling */
+#services .service-list {
+  margin: 1rem 0 1rem 1.5rem;   /* space above & below list */
+  padding-left: .5rem;
+  font-size: .95rem;
+  line-height: 1.55;
+}
+
+#services .service-list li + li {
+  margin-top: .75rem;           /* space between bullets */
+}
+
+/* Space before the italicized note */
+#services .exp-note {
+  margin-top: 1rem;
+}
+

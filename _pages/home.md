@@ -27,19 +27,19 @@ toc: false
 
   <p>
     I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.
-    When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.
-    <strong>Core services include:</strong>
-    <details class="expander" style="display:inline;">
-      <summary style="display:inline; cursor:pointer; margin-left:.25rem;">+</summary>
+    When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind. 
+    <span><strong>Core services include:</strong>
+      <details class="expander" style="display:inline;">
+        <summary style="display:inline; cursor:pointer; margin-left:.4rem;">+</summary>
+        <ul style="margin: .5rem 0 0 1.5rem; padding-left: .5rem; font-size:.95rem; line-height:1.55;">
+          <li><strong>🟣 Content Strategy &amp; Planning</strong> — I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>
+          <li style="margin-top:.6rem;"><strong>🟣 Messaging &amp; Content Packages</strong> — Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</li>
+          <li style="margin-top:.6rem;"><strong>🟣 AI Integration &amp; Team Training</strong> — Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.</li>
+        </ul>
 
-      <ul style="margin: .5rem 0 0 1.5rem; padding-left: .5rem; font-size:.95rem; line-height:1.55;">
-        <li> <strong>🟣 Content Strategy &amp; Planning</strong> — I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs. </li>
-        <li style="margin-top:.6rem;"> <strong>🟣 Messaging &amp; Content Packages</strong> — Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals. </li>
-        <li style="margin-top:.6rem;"> <strong>🟣 AI Integration &amp; Team Training</strong> — Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency. </li>
-      </ul>
-
-      <p style="margin-top:1rem;"><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
-    </details>
+        <p style="margin-top:1rem;"><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
+      </details>
+    </span>
   </p>
 </section>
 

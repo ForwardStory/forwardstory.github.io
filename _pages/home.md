@@ -23,33 +23,34 @@ toc: false
 <nav class="jump-links">
 <!-- What I Do -->
 <section id="services">
-<h2>What I Can Do for You</h2>
-<p>I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.
+  <h2>What I Can Do for You</h2>
 
-When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.</p><details class="expander">
-  <summary>Read more</summary>
-  
-<h3>Core Services</h3>
+  <p>I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.</p>
+  <p>When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.</p>
 
-<ul>
-  <li>
- <h4>🟣 Messaging & Content Packages</h4><br>
-    Includes marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.
-  </li>
-  <li>
-    <h4>🟣 Content Strategy & Planning</h4><br>
-    I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.
-  </li>
-  <li>
-    <h4>🟣 AI Integration & Team Training</h4><br>
-    Many workplaces feel the pressure to use AI, but don’t have a clear path forward and are overwhelmed. I help teams build literacy, explore the tools that fit their needs, and use AI to create better, more efficient content — with intention, not urgency.
-  </li>
-  
-</ul>
+  <!-- ⬇️ Leave a blank line before and after <details> in a .md file -->
+  <details class="expander">
+    <summary>Read more</summary>
+    <div>
+      <h3>Core Services</h3>
+      <ul>
+        <li>
+          <strong>🟣 Messaging &amp; Content Packages</strong>
+          <div>Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</div>
+        </li>
+        <li>
+          <strong>🟣 Content Strategy &amp; Planning</strong>
+          <div>I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</div>
+        </li>
+        <li>
+          <strong>🟣 AI Integration &amp; Team Training</strong>
+          <div>Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.</div>
+        </li>
+      </ul>
 
-<p><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em>.</p>
-</details>
-
+      <p><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
+    </div>
+  </details>
 </section>
 
 <!-- About -->

@@ -53,7 +53,7 @@ toc: false
   </p>
 
   <details class="expander" id="services-expander">
-    <summary><strong>Core services include:</strong> <span class="plus" aria-hidden="true">+</span></summary>
+    <summary>Core services include: <span class="plus" aria-hidden="true">+</span></summary>
 
     <ul class="service-list">
       <li><strong>🟣 Content Strategy &amp; Planning</strong> — I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>
@@ -158,25 +158,21 @@ These sample projects reflect a blend of content strategy, messaging development
 
   <p>I can help! Feel free to get in touch. 📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 
-  <h3>Offerings Include: 
-    <details class="expander" style="display:inline;">
-      <summary style="display:inline; cursor:pointer;">+ read more...</summary>
-      <ul>
-        <li>
-          <strong>🟣 Write It Clearly: Training for Teams (with AI-Enhanced Support)</strong><br>
-          Helps teams write clearly and confidently — with or without AI tools. You’ll learn how to turn complex ideas into accessible, actionable content, and how to use GenAI to support your process, not replace it.
-        </li>
-        <li>
-          <strong>🟣 Storytelling: Craft Messages That Stick, Scale, and Inspire</strong><br>
-          Helps teams and individuals bring their mission, products, or services to life with compelling, structured stories. You’ll learn how to connect messaging to audience needs, organize your ideas for clarity and flow, and use GenAI to prototype content quickly — without losing your voice. Whether you're building a brand, launching a campaign, or briefing leadership, the right story drives understanding and engagement.
-        </li>
-        <li>
-          <strong>🟣 AI-Literacy for Nontechnical Teams: Be the Human in the Loop</strong><br>
-          This session is for people who don’t build AI — but are expected to use it. I offer a plain-language overview of generative AI, what it’s good at (and not), and how to think critically about using it in your daily work. The goal isn’t to revolutionize your processes — it’s to help your team use AI tools more thoughtfully, improve your outputs, and stay alert to the limits and risks. You’ll walk away with a practical, no-hype understanding of where these tools fit in your work.
-        </li>
-      </ul>
-    </details>
-  </h3>
+  <details class="expander" id="training-expander">
+    <summary>See training offerings <span class="plus" aria-hidden="true">+</span></summary>
+
+    <ul class="training-list">
+      <li>
+        <strong>🟣 Write It Clearly: Training for Teams (with AI-Enhanced Support)</strong> — Helps teams write clearly and confidently — with or without AI tools. You’ll learn how to turn complex ideas into accessible, actionable content, and how to use GenAI to support your process, not replace it.
+      </li>
+      <li>
+        <strong>🟣 Storytelling: Craft Messages That Stick, Scale, and Inspire</strong> — Helps teams and individuals bring their mission, products, or services to life with compelling, structured stories. You’ll learn how to connect messaging to audience needs, organize your ideas for clarity and flow, and use GenAI to prototype content quickly — without losing your voice. Whether you're building a brand, launching a campaign, or briefing leadership, the right story drives understanding and engagement.
+      </li>
+      <li>
+        <strong>🟣 AI-Literacy for Nontechnical Teams: Be the Human in the Loop</strong> — Plain-language overview of generative AI, what it’s good at (and not), and how to use it thoughtfully in daily work. You’ll walk away with a practical, no-hype understanding of where these tools fit in your work.
+      </li>
+    </ul>
+  </details>
 </section>
 
 

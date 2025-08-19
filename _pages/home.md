@@ -26,8 +26,9 @@ toc: false
 <h2>What I Can Do for You</h2>
 <p>I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.
 
-When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.</p>
-
+When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.</p><details class="expander">
+  <summary>Read more</summary>
+  
 <h3>Core Services</h3>
 
 <ul>
@@ -46,7 +47,8 @@ When you bring me in, I’ll assess what’s working, identify the gaps, and del
   
 </ul>
 
-<p><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
+<p><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em>.</p>
+</details>
 
 </section>
 

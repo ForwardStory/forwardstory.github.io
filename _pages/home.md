@@ -11,7 +11,7 @@ toc: false
    Universal expander behavior
    =========================== */
 .expander summary {
-  display: flex;                 /* lets us push the right icon all the way right */
+  display: flex;                 /* push right icon all the way right */
   align-items: center;
   gap: .4rem;
   cursor: pointer;

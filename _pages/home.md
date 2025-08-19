@@ -30,23 +30,24 @@ toc: false
 
   <!-- ⬇️ Leave a blank line before and after <details> in a .md file -->
   <details class="expander">
-    <summary>Read more</summary>
+    <summary>+</summary>
     <div>
       <h3>Core Services</h3>
       <ul>
         <li>
-          <strong>🟣 Messaging &amp; Content Packages</strong>
-          <div>Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</div>
-        </li>
-        <li>
           <strong>🟣 Content Strategy &amp; Planning</strong>
           <div>I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</div>
+        </li>
+        <li>
+          <strong>🟣 Messaging &amp; Content Packages</strong>
+          <div>Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</div>
         </li>
         <li>
           <strong>🟣 AI Integration &amp; Team Training</strong>
           <div>Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.</div>
         </li>
       </ul>
+
 
       <p><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
     </div>

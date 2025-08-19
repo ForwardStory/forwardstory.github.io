@@ -86,7 +86,7 @@ These sample projects reflect a blend of content strategy, messaging development
   <!-- Card 2 -->
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
     <img src="/assets/images/Destiny600X315.jpg" alt="Doula story thumbnail" style="width: 100%; border-radius: 6px;">
-    <h4>“This is Destiny” – The Power of Doula Care for Better Health</h4>
+    <h4><em>This is Destiny</em> – The Power of Doula Care for Better Health</h4>
     <p>Doula support helped mom advocate for her needs, foster positive relationships with her doctor, and achieve improved physical and mental health.</p>
     <p><a href="#">Read the story</a></p>
   </div>
@@ -102,7 +102,7 @@ These sample projects reflect a blend of content strategy, messaging development
   <!-- Card 4 -->
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
     <img src="/assets/images/F2F1200X630.jpg" alt="Family's Journey thumbnail" style="width: 100%; border-radius: 6px;">
-    <h4>“A Family’s Journey” – Systems Change Storytelling</h4>
+    <h4><em>A Family’s Journey</em>em> – Systems Change Storytelling</h4>
     <p>Follow one family’s experience navigating complex medical, educational, and social challenges, and the critical support they received from their "F2F" center. I wrote this narrative for Congressional decision-makers and for these support centers.</p>
     <p><a href="#">Read the story</a></p>
   </div>

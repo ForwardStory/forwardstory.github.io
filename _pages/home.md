@@ -111,7 +111,7 @@ These sample projects reflect a blend of content strategy, messaging development
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
     <img src="/assets/images/Clapperboard1200X630.jpg" alt="Film clapperboard thumbnail" style="width: 100%; border-radius: 6px;">
     <h4>Evacuation Plan – Film Set / Same‑Day Delivery</h4>
-    <p>This comprehensive evacuation plan - for a high-profile production filming on location - is tailored to the geography and personnel needs of 500 crew and extras. I used AI tools to cut concept-to-delivery time by an estimated 70%, enabling same-day turnaround.</p>
+    <p>This comprehensive evacuation plan - for a high-profile production filming on location - is tailored to the specific geography and personnel needs of 500 crew and extras. I used AI tools to cut concept-to-delivery time by an estimated 70%, enabling same-day turnaround.</p>
     <p><em>Details available upon request.</em></p>
   </div>
 
@@ -119,7 +119,7 @@ These sample projects reflect a blend of content strategy, messaging development
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
     <img src="/assets/images/Cruiseship1200X630.jpg" alt="Cruise ship thumbnail" style="width: 100%; border-radius: 6px;">
     <h4>Marketing Package – Alaska Tourism Pitch / Cruise Outreach</h4>
-    <p>This marketing package (proposal, cover letter, press release) is for a small recreation and entertainment business in Alaska. With the package, they successfully secured cruise rep engagement. Used AI tools for research, drafting, and image generation under a tight deadline.</p>
+    <p>This marketing package (proposal, cover letter, press release) is for a small recreation and entertainment business in Alaska. They successfully secured cruise rep engagement. Used AI tools for research, drafting, and image generation under a tight deadline.</p>
     <p><em>Details available upon request.</em></p>
   </div>
 

@@ -29,6 +29,23 @@ toc: false
 #services .exp-note { margin-top: 1rem; }
 </style>
 
+<style>
+/* Training expander — inline label + plus */
+#training summary { display: inline-flex; align-items: center; gap: .4rem; cursor: pointer; }
+#training summary::after { content: ""; }  /* prevents any global + duplication */
+#training .plus { font-weight: 700; }
+
+/* Training list spacing/size */
+#training .training-list {
+  margin: 1rem 0 0 1.5rem;
+  padding-left: .5rem;
+  font-size: .95rem;
+  line-height: 1.55;
+}
+#training .training-list li + li { margin-top: .75rem; }
+</style>
+
+
 
 <!-- Hero Section -->
 <header class="hero">

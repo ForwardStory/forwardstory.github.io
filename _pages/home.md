@@ -7,16 +7,28 @@ classes: wide
 toc: false
 ---
 <style>
-/* Services expander — inline so it works even without site.css */
-#services summary {
-  display: inline-flex;
+/* ===========================
+   Universal expander behavior
+   =========================== */
+.expander summary {
+  display: flex;                 /* lets us push the right icon all the way right */
   align-items: center;
   gap: .4rem;
   cursor: pointer;
+  list-style: none;
 }
-#services .plus { font-weight: 700; }
+.expander summary::-webkit-details-marker { display: none; }
 
-/* Bullet list styling */
+/* Right-aligned icon for ALL expanders */
+.expander summary::after { content: "+"; margin-left: auto; }
+.expander[open] summary::after { content: "–"; }
+
+/* Left inline plus (next to the label text) */
+.expander .plus { font-weight: 700; }
+
+/* ===========================
+   Services spacing
+   =========================== */
 #services .service-list {
   margin: 1rem 0 1rem 1.5rem;   /* space above & below list */
   padding-left: .5rem;
@@ -24,25 +36,23 @@ toc: false
   line-height: 1.55;
 }
 #services .service-list li + li { margin-top: .75rem; }
-
-/* Space before the italicized note */
 #services .exp-note { margin-top: 1rem; }
-</style>
 
-<style>
-/* Training expander — inline label + plus */
-#training summary { display: inline-flex; align-items: center; gap: .4rem; cursor: pointer; }
-#training summary::after { content: ""; }  /* prevents any global + duplication */
-#training .plus { font-weight: 700; }
-
-/* Training list spacing/size */
+/* ===========================
+   Training spacing
+   =========================== */
 #training .training-list {
-  margin: 1rem 0 0 1.5rem;
+  margin: 1rem 0 0 1.5rem;      /* space above list */
   padding-left: .5rem;
   font-size: .95rem;
   line-height: 1.55;
 }
-#training .training-list li + li { margin-top: .75rem; }
+#training .training-list li { margin-bottom: .75rem; }
+
+/* ===========================
+   (Optional) tiny top margin when open for About
+   =========================== */
+#about #about-expander[open] { margin-top: .5rem; }
 </style>
 
 
@@ -106,9 +116,9 @@ toc: false
 <!-- Featured Work -->
 <section id="portfolio">
 <h2>Featured Work</h2>
-<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releasea, talking points, and written stories to newsletters, website overhauls, and fact sheets. I’ve also designed and delivered training.
+<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve also designed and delivered training.
 
-These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done, read this of sampled projects. Or, view my resume.</p>
+These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done, read this list of sample projects. Or, view my resume.</p>
 
 <div class="card-grid" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5em;">
 

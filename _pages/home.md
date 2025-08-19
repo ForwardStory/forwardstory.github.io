@@ -56,16 +56,23 @@ toc: false
 
 <!-- About -->
 <section id="about">
-<h2>About Me</h2>
-<p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.</p>
+  <h2>About Me</h2>
 
-<p>My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins. I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.</p>
+  <p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.</p>
 
-<p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
+  <p>My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins.</p>
 
-<p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
+  <details class="expander">
+    <summary>+</summary>
 
+    <p>I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.</p>
+
+    <p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
+
+    <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
+  </details>
 </section>
+
 
 <!-- Featured Work -->
 <section id="portfolio">

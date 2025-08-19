@@ -74,17 +74,15 @@ toc: false
 
   <p>My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins.</p>
 
-  <h3>More about me: 
-    <details class="expander" style="display:inline;">
-      <summary style="display:inline; cursor:pointer;">+</summary>
+  <details class="expander" id="about-expander">
+    <summary>Learn a little more about me <span class="plus" aria-hidden="true">+</span></summary>
 
-      <p>I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.</p>
+    <p>I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.</p>
 
-      <p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
+    <p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
 
-      <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
-    </details>
-  </h3>
+    <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
+  </details>
 </section>
 
 

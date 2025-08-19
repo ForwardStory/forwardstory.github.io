@@ -28,31 +28,29 @@ toc: false
   <p>I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.</p>
   <p>When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.</p>
 
-  <!-- ⬇️ Leave a blank line before and after <details> in a .md file -->
-  <details class="expander">
-    <summary>+</summary>
-    <div>
-      <h3>Core Services</h3>
+  <h3>Core Services Include: 
+    <details class="expander" style="display:inline;">
+      <summary style="display:inline; cursor:pointer;">+</summary>
       <ul>
         <li>
-          <strong>🟣 Content Strategy &amp; Planning</strong>
-          <div>I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</div>
+          <strong>🟣 Content Strategy &amp; Planning</strong><br>
+          I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.
         </li>
         <li>
-          <strong>🟣 Messaging &amp; Content Packages</strong>
-          <div>Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</div>
+          <strong>🟣 Messaging &amp; Content Packages</strong><br>
+          Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.
         </li>
         <li>
-          <strong>🟣 AI Integration &amp; Team Training</strong>
-          <div>Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.</div>
+          <strong>🟣 AI Integration &amp; Team Training</strong><br>
+          Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.
         </li>
       </ul>
 
-
       <p><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
-    </div>
-  </details>
+    </details>
+  </h3>
 </section>
+
 
 <!-- About -->
 <section id="about">
@@ -62,15 +60,17 @@ toc: false
 
   <p>My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins.</p>
 
-  <details class="expander">
-    <summary>+</summary>
+  <h3>More about me: 
+    <details class="expander" style="display:inline;">
+      <summary style="display:inline; cursor:pointer;">+</summary>
 
-    <p>I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.</p>
+      <p>I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.</p>
 
-    <p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
+      <p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
 
-    <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
-  </details>
+      <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
+    </details>
+  </h3>
 </section>
 
 
@@ -138,32 +138,33 @@ These sample projects reflect a blend of content strategy, messaging development
 
 <!-- Training -->
 <section id="training">
-<h2>Training</h2>
-<p>Need help getting practical in this evolving AI landscape? Struggle with helping your teams to write clearly and effectively? Looking for someone to help enable your nontechnical teams to use AI tools and understand what they can and can’t quite do?</p>
+  <h2>Training</h2>
 
-<p>I can help! Feel free to get in touch.</p>
-<p>📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
+  <p>Need help getting practical in this evolving AI landscape? Struggle with helping your teams to write clearly and effectively? Looking for someone to help enable your nontechnical teams to use AI tools and understand what they can and can’t quite do?</p>
 
-<h3>Offerings Include</h3>
-<ul>
-  <li>
- <h4>🟣 Write It Clearly: Training for Teams (with AI-Enhanced Support)</h4><br>
-    Helps teams write clearly and confidently — with or without AI tools. You’ll learn how to turn complex ideas into accessible, actionable content, and how to use GenAI to support your process, not replace it.
-  </li>
-  <li>
-    <h4>🟣 Storytelling: Craft Messages That Stick, Scale, and Inspire</h4><br>
-    Helps teams and individuals bring their mission, products, or services to life with compelling, structured stories. You’ll learn how to connect messaging to audience needs, organize your ideas for clarity and flow, and use GenAI to prototype content quickly — without losing your voice.
-Whether you're building a brand, launching a campaign, or briefing leadership, the right story drives understanding and engagement.
-  </li>
-  <li>
-    <h4>🟣 AI-Literacy for Nontechnical Teams: Be the Human in the Loop</h4><br>
-    This session is for people who don’t build AI — but are expected to use it. I offer a plain-language overview of generative AI, what it’s good at (and not), and how to think critically about using it in your daily work.
-The goal isn’t to revolutionize your processes — it’s to help your team use AI tools more thoughtfully, improve your outputs, and stay alert to the limits and risks. You’ll walk away with a practical, no-hype understanding of where these tools fit in your work.
-  </li>
-  
-</ul>
+  <p>I can help! Feel free to get in touch. 📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 
+  <h3>Offerings Include: 
+    <details class="expander" style="display:inline;">
+      <summary style="display:inline; cursor:pointer;">+ read more...</summary>
+      <ul>
+        <li>
+          <strong>🟣 Write It Clearly: Training for Teams (with AI-Enhanced Support)</strong><br>
+          Helps teams write clearly and confidently — with or without AI tools. You’ll learn how to turn complex ideas into accessible, actionable content, and how to use GenAI to support your process, not replace it.
+        </li>
+        <li>
+          <strong>🟣 Storytelling: Craft Messages That Stick, Scale, and Inspire</strong><br>
+          Helps teams and individuals bring their mission, products, or services to life with compelling, structured stories. You’ll learn how to connect messaging to audience needs, organize your ideas for clarity and flow, and use GenAI to prototype content quickly — without losing your voice. Whether you're building a brand, launching a campaign, or briefing leadership, the right story drives understanding and engagement.
+        </li>
+        <li>
+          <strong>🟣 AI-Literacy for Nontechnical Teams: Be the Human in the Loop</strong><br>
+          This session is for people who don’t build AI — but are expected to use it. I offer a plain-language overview of generative AI, what it’s good at (and not), and how to think critically about using it in your daily work. The goal isn’t to revolutionize your processes — it’s to help your team use AI tools more thoughtfully, improve your outputs, and stay alert to the limits and risks. You’ll walk away with a practical, no-hype understanding of where these tools fit in your work.
+        </li>
+      </ul>
+    </details>
+  </h3>
 </section>
+
 
 <!-- Contact -->
 <section id="contact">

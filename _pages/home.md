@@ -54,6 +54,22 @@ toc: false
    =========================== */
 #about #about-expander[open] { margin-top: .5rem; }
 
+/* ===========================
+   Force right-justified +/– specifically for Services
+   =========================== */
+#services-expander > summary {
+  display: flex !important; 
+  align-items: center; 
+  gap: .4rem; 
+}
+#services-expander > summary::after {
+  content: "+" !important; 
+  margin-left: auto; 
+  font-weight: 700;
+}
+#services-expander[open] > summary::after {
+  content: "–" !important; 
+}
 </style>
 
 

@@ -130,7 +130,7 @@ toc: false
 <!-- Featured Work -->
 <section id="portfolio">
 <h2>Featured Work</h2>
-<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve designed and delivered training. These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done, read this list of sample projects. Or, [view my resume](./assets/ForwardStoryResumeAug2025.pdf).</p>
+<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve designed and delivered training. These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done, read this list of sample projects. Or,<a href="./assets/ForwardStoryResumeAug2025.pdf">view my resume</a>.</p>
 
 <div class="card-grid" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5em;">
 
@@ -163,7 +163,7 @@ toc: false
     <img src="/assets/images/F2F1200X630.jpg" alt="Family's Journey thumbnail" style="width: 100%; border-radius: 6px;">
     <h4><em>A Family’s Journey</em> – Systems Change Storytelling</h4>
     <p>Follow one family’s experience navigating complex medical, educational, and social challenges, and the critical support they received from their "F2F" center. I wrote this narrative for Congressional decision-makers and for support centers to tell their story.</p>
-    <p><a href="#">Read the story</a></p>
+    <p><a href="./assets/f2f-ben-family-journey.pdf">Read the story</a></p>
   </div>
 
   <!-- Card 5 -->

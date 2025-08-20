@@ -2,26 +2,22 @@
 layout: default
 title: More Work
 permalink: /work/
+classes: work-narrow
 ---
 <style>
-/* Scoped to this page only */
-#work {
-  /* 70ch ≈ ~70 characters per line: readable and centered */
-  max-width: 85ch;
-  margin: 0 auto;           /* centers the block = left/right margins */
-  padding: 0 1rem;          /* a little breathing room on the sides */
+/* Only affects this page because of the .work-narrow class */
+.work-narrow .page__content {
+  max-width: 85ch;     /* adjust to taste: try 80–90ch */
+  margin: 0 auto;      /* centers it (creates left/right margins) */
+  padding: 0 1rem;     /* a little side breathing room */
 }
 
-/* Niceties for headings and lists */
-#work h1, #work h2 { margin: 1.25rem 0 .5rem; }
-#work p { margin: 0 0 .75rem; line-height: 1.6; }
-#work ul { margin: .25rem 0 1rem; padding-left: 1.25rem; }
-#work li + li { margin-top: .35rem; }
-
-/* Optional: slightly wider on large screens, still centered */
-@media (min-width: 1200px) {
-  #work { max-width: 78ch; }
-}
+/* optional niceties */
+.work-narrow .page__content h1, 
+.work-narrow .page__content h2 { margin: 1.25rem 0 .5rem; }
+.work-narrow .page__content p { margin: 0 0 .75rem; line-height: 1.6; }
+.work-narrow .page__content ul { margin: .25rem 0 1rem; padding-left: 1.25rem; }
+.work-narrow .page__content li + li { margin-top: .35rem; }
 </style>
 <section id="work" markdown="1">
 # Sample Listing of Work

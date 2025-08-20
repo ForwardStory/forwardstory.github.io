@@ -70,6 +70,24 @@ toc: false
 #services-expander[open] > summary::after {
   content: "–" !important; 
 }
+/* ===== Force right-justified +/– specifically for Services ===== */
+#services-expander > summary {
+  display: flex !important;           /* ensure flex, not inline/list-item */
+  align-items: center !important;
+  justify-content: space-between !important;  /* push icon to far right */
+  width: 100% !important;                      /* give room for the right icon */
+}
+
+#services-expander > summary::after {
+  content: "+" !important;             /* show right-side + when closed */
+  display: inline-block !important;
+  margin-left: .5rem !important;
+  font-weight: 700;
+}
+
+#services-expander[open] > summary::after {
+  content: "–" !important;             /* flip to – when open */
+}
 </style>
 
 

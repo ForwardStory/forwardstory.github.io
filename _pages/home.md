@@ -130,7 +130,7 @@ toc: false
 <!-- Featured Work -->
 <section id="portfolio">
 <h2>Featured Work</h2>
-<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve designed and delivered training. These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done, read this list of sample projects. Or, view my resume.</p>
+<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve designed and delivered training. These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done, read this list of sample projects. Or, [view my resume](./assets/ForwardStoryResumeAug2025.pdf).</p>
 
 <div class="card-grid" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5em;">
 

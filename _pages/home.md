@@ -53,7 +53,6 @@ toc: false
    (Optional) tiny top margin when open for About
    =========================== */
 #about #about-expander[open] { margin-top: .5rem; }
-</style>
 
 /* Force the right-side +/– on Services, even if markup varies */
 #services details > summary { 
@@ -68,6 +67,7 @@ toc: false
 #services details[open] > summary::after { 
   content: "–"; 
 }
+</style>
 
 
 

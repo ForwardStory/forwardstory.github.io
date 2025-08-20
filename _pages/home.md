@@ -7,7 +7,7 @@ classes: wide
 toc: false
 ---
 <style>
-/* ============ Universal expander behavior (works for Services, About, Training) ============ */
+/* ============ Universal expander behavior (Services, About, Training) ============ */
 .expander summary {
   display: flex;                 /* lets us push the right icon to the edge */
   align-items: center;
@@ -22,7 +22,7 @@ toc: false
 .expander summary::after { content: "+"; margin-left: auto; }
 .expander[open] summary::after { content: "–"; }
 
-/* Left inline plus (next to the label text) */
+/* (If you still have inline left "+" spans in About/Training, this just bolds them) */
 .expander .plus { font-weight: 700; }
 
 /* ============ Services spacing ============ */
@@ -46,38 +46,7 @@ toc: false
 
 /* ============ About (optional tiny top margin when open) ============ */
 #about #about-expander[open] { margin-top: .5rem; }
-/* --- Services: render right icon via a dedicated span, and disable the pseudo-element --- */
-#services-expander > summary { 
-  display: flex; 
-  align-items: center; 
-  gap: .4rem; 
-}
-#services-expander > summary::after { 
-  content: "";            /* turn off the universal ::after for Services to avoid duplicates */
-}
-#services-expander > summary .right-icon::after {
-  content: "+";           /* show + when closed */
-  margin-left: auto; 
-  font-weight: 700;
-}
-#services-expander[open] > summary .right-icon::after {
-  content: "–";           /* flip to – when open */
-}
-/* --- Services: inline left + and a right-justified +/– --- */
-#services-expander > summary { display: flex; align-items: center; gap: .4rem; }
-
-/* Cancel the universal ::after on Services so we don't get a duplicate */
-#services-expander > summary::after { content: ""; }
-
-/* Keep left side grouped nicely */
-#services-expander > summary .label { display: inline-flex; align-items: center; gap: .4rem; }
-
-/* Push the right icon to the far right */
-#services-expander > summary .right-icon { margin-left: auto; font-weight: 700; }
-#services-expander > summary .right-icon::before { content: "+"; }
-#services-expander[open] > summary .right-icon::before { content: "–"; }
 </style>
-
 
 <!-- Hero Section -->
 <header class="hero">
@@ -97,17 +66,12 @@ toc: false
   <h2>What I Can Do for You</h2>
 
   <p>
-    I work with organizations, teams, and individuals to clarify communication goals and develop a strategy that gets you where you want to go. When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.
+    I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.
+    When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.
   </p>
 
   <details class="expander" id="services-expander">
-    <summary>
-  <span class="label">
-    Core services include: <span class="plus" aria-hidden="true">+</span>
-  </span>
-  <span class="right-icon" aria-hidden="true"></span>
-</summary>
-
+    <summary>Core services include: <span class="plus" aria-hidden="true">+</span></summary>
 
     <ul class="service-list">
       <li><strong>🟣 Content Strategy &amp; Planning</strong> — I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>
@@ -118,6 +82,7 @@ toc: false
     <p class="exp-note"><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
   </details>
 </section>
+
 
 
 <!-- About -->

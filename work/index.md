@@ -2,39 +2,11 @@
 layout: default
 title: More Work
 permalink: /work/
-classes: work-narrow
----<style>
-/* A self-contained wrapper we fully control */
-.work-wrap {
-  max-width: 85ch;        /* adjust: try 80–90ch */
-  margin: 0 auto;         /* centers = left/right margins */
-  padding: 0 1.25rem;     /* inner breathing room so text never hugs edges */
-  line-height: 1.6;
-}
+classes: splash
+---
 
-/* Headings & lists niceties */
-.work-wrap h1, 
-.work-wrap h2 { margin: 1.25rem 0 .5rem; }
-.work-wrap p { margin: 0 0 1rem; }
-.work-wrap ul { margin: .25rem 0 1rem; padding-left: 1.25rem; }
-.work-wrap li + li { margin-top: .35rem; }
-
-/* Optional: on very large screens, allow a bit wider */
-@media (min-width: 1280px) {
-  .work-wrap { max-width: 95ch; }
-}
-
-/* Optional: on small screens, keep comfy side padding */
-@media (max-width: 640px) {
-  .work-wrap { padding: 0 1rem; }
-}
-</style>
-
-
-<section id="work" class="work-wrap" markdown="1">
-
-# Sample Listing of Work
-_This is a broad sampling of my projects. Details available upon request._
+# Listing of Work
+_This is a broad sample of projects. Details available upon request._
 
 ## Campaigns – Multi-Channel
 - Child Health Day
@@ -91,4 +63,4 @@ Produced for various clients, outlets, and channels:
 
 ### Date last updated:
 August 2025
-</section>
+

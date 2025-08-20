@@ -63,6 +63,19 @@ toc: false
 #services-expander[open] > summary .right-icon::after {
   content: "–";           /* flip to – when open */
 }
+/* --- Services: inline left + and a right-justified +/– --- */
+#services-expander > summary { display: flex; align-items: center; gap: .4rem; }
+
+/* Cancel the universal ::after on Services so we don't get a duplicate */
+#services-expander > summary::after { content: ""; }
+
+/* Keep left side grouped nicely */
+#services-expander > summary .label { display: inline-flex; align-items: center; gap: .4rem; }
+
+/* Push the right icon to the far right */
+#services-expander > summary .right-icon { margin-left: auto; font-weight: 700; }
+#services-expander > summary .right-icon::before { content: "+"; }
+#services-expander[open] > summary .right-icon::before { content: "–"; }
 </style>
 
 
@@ -89,8 +102,9 @@ toc: false
 
   <details class="expander" id="services-expander">
     <summary>
-  Core services include:
-  <span class="plus" aria-hidden="true">+</span>
+  <span class="label">
+    Core services include: <span class="plus" aria-hidden="true">+</span>
+  </span>
   <span class="right-icon" aria-hidden="true"></span>
 </summary>
 

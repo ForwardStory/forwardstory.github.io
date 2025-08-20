@@ -3,9 +3,29 @@ layout: default
 title: More Work
 permalink: /work/
 ---
+<style>
+/* Scoped to this page only */
+#work {
+  /* 70ch ≈ ~70 characters per line: readable and centered */
+  max-width: 70ch;
+  margin: 0 auto;           /* centers the block = left/right margins */
+  padding: 0 1rem;          /* a little breathing room on the sides */
+}
 
+/* Niceties for headings and lists */
+#work h1, #work h2 { margin: 1.25rem 0 .5rem; }
+#work p { margin: 0 0 .75rem; line-height: 1.6; }
+#work ul { margin: .25rem 0 1rem; padding-left: 1.25rem; }
+#work li + li { margin-top: .35rem; }
+
+/* Optional: slightly wider on large screens, still centered */
+@media (min-width: 1200px) {
+  #work { max-width: 78ch; }
+}
+</style>
+<section id="work" markdown="1">
 # Sample Listing of Work
-_This is broader sampling of my projects. Details available upon request._
+_This is a broad sampling of my projects. Details available upon request._
 
 ## Campaigns – Multi-Channel
 - **Child Health Day**
@@ -52,3 +72,6 @@ Produced for various clients, outlets, and channels:
 - “Global Birth Defects App,” *Birth Defects Research*, 2021. DOI: 10.1002/bdr2.1898  
 - *Scaling-Up Human Resources for Health in Tanzania* — 200-page white paper  
 - *Engaging with the Public: A Guide to Developing and Following a Public Engagement Strategy*
+
+### Date last updated: <p>August 2025</p>
+</section>

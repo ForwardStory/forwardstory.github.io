@@ -84,8 +84,7 @@ toc: false
   <h2>What I Can Do for You</h2>
 
   <p>
-    I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.
-    When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.
+    I work with organizations, teams, and individuals to clarify communication goals and develop a strategy that gets you where you want to go. When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.
   </p>
 
   <details class="expander" id="services-expander">
@@ -111,9 +110,7 @@ toc: false
 <section id="about">
   <h2>About Me</h2>
 
-  <p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve.</p>
-
-  <p>My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins.</p>
+  <p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve. My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins.</p>
 
   <details class="expander" id="about-expander">
     <summary>Learn a little more about me <span class="plus" aria-hidden="true">+</span></summary>
@@ -130,16 +127,14 @@ toc: false
 <!-- Featured Work -->
 <section id="portfolio">
 <h2>Featured Work</h2>
-<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve also designed and delivered training.
-
-These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done, read this list of sample projects. Or, view my resume.</p>
+<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve designed and delivered training. These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done, read this list of sample projects. Or, view my resume.</p>
 
 <div class="card-grid" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5em;">
 
   <!-- Card 1 -->
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
     <img src="/assets/images/be-inspired-facebook.jpg" alt="Black Maternal Health Week thumbnail" style="width: 100%; border-radius: 6px;">
-    <h4>Black Maternal Health Week - Multimodal Campaign</h4>
+    <h4>Black Maternal Health Week - Integrated Campaign</h4>
     <p>Pioneered and executed a multi-channel campaign, integrating social, video, and written stories, boosting digital engagement and strengthening partner relationships.</p>
     <p><a href="#">Learn more</a></p>
   </div>

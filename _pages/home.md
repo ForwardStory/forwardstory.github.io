@@ -46,30 +46,31 @@ toc: false
 
 /* ============ About (optional tiny top margin when open) ============ */
 #about #about-expander[open] { margin-top: .5rem; }
-/* ===== Featured cards: responsive grid ===== */
-/* Desktop default: 3 columns */
-.card-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1rem;
+
+/* ===== Featured Work (flex-friendly, no grid required) ===== */
+/* Make the row spacing consistent (your container uses flex + wrap) */
+#portfolio .card-grid {
+  gap: 1rem !important;                 /* rely on gap, not space-between */
+  justify-content: flex-start !important;
 }
 
-/* Tablet: 2 columns */
+/* Tablet: 2 cards per row (override inline flex: 1 1 calc(33% - 1em)) */
 @media (max-width: 1024px) {
-  .card-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  #portfolio .card {
+    flex: 1 1 calc(50% - 1rem) !important;  /* two columns */
   }
 }
 
-/* Mobile: 1 column */
+/* Mobile: 1 card per row */
 @media (max-width: 640px) {
-  .card-grid {
-    grid-template-columns: 1fr;
+  #portfolio .card {
+    flex: 1 1 100% !important;              /* single column */
+  }
+  #portfolio .card-grid {
+    gap: 0.875rem !important;               /* a touch tighter on phones */
   }
 }
 
-/* Safety: prevent overflow from long titles/text */
-.card-grid > * { min-width: 0; }
 </style>
 
 <!-- Hero Section -->

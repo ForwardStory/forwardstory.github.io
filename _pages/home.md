@@ -114,7 +114,7 @@ toc: false
 <section id="about">
   <h2>About Me</h2>
 
-  <p>I help organizations strategize their communication goals, using best practices, storytelling, and evolving AI tools—with a strong bias for action and a foundation in global health. Across 3 continents and 6 countries, I’ve served clients and teams across government, academic, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. That work shaped my approach: grounded in integrity, creativity, and in service to people.</p>
+  <p>I have a bias for action and a foundation in public health. I enjoy helping organizations reach their communication goals, using best practices, storytelling, and evolving AI tools. Across 3 continents and 6 countries, I’ve served clients and teams across government, academic, private, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. My approach: grounded in integrity, creativity, and in service to people.</p>
 
   <details class="expander" id="about-expander">
     <summary>Learn a little more about me <span class="plus" aria-hidden="true">+</span></summary>

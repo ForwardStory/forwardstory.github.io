@@ -2,8 +2,18 @@
 layout: default
 title: More Work
 permalink: /work/
-classes: wide
+classes: wide work-page
 ---
+<style>
+/* Custom mid-width just for this page */
+.work-page .page__content {
+  max-width: 50rem;   /* about 800px */
+  margin: 0 auto;
+  padding: 0 2rem;    /* keep breathing room on small screens */
+  line-height: 1.6;
+}
+</style>
+
 
 # Listing of Work
 _This is a broad sample of projects. Details available upon request._

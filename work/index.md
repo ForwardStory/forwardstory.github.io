@@ -7,18 +7,20 @@ classes: work-narrow
 <style>
 /* Only affects this page because of the .work-narrow class */
 .work-narrow .page__content {
-  max-width: 75ch;     /* adjust to taste: try 80–90ch */
-  margin: 0 auto;      /* centers it (creates left/right margins) */
-  padding: 0 1rem;     /* a little side breathing room */
+  max-width: 60rem;   /* about 960px on large screens */
+  margin: 0 auto;     /* keeps it centered */
+  padding: 0 2rem;    /* restores side breathing room */
+  line-height: 1.6;   /* improves readability */
 }
 
-/* optional niceties */
+/* optional tweaks for lists & headings */
 .work-narrow .page__content h1, 
 .work-narrow .page__content h2 { margin: 1.25rem 0 .5rem; }
-.work-narrow .page__content p { margin: 0 0 .75rem; line-height: 1.6; }
-.work-narrow .page__content ul { margin: .25rem 0 1rem; padding-left: 1.25rem; }
+.work-narrow .page__content p { margin: 0 0 1rem; }
+.work-narrow .page__content ul { margin: .25rem 0 1rem; padding-left: 1.5rem; }
 .work-narrow .page__content li + li { margin-top: .35rem; }
 </style>
+
 <section id="work" markdown="1">
 # Sample Listing of Work
 _This is a broad sampling of my projects. Details available upon request._

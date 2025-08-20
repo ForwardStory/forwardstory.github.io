@@ -7,7 +7,7 @@ permalink: /work/
 /* Scoped to this page only */
 #work {
   /* 70ch ≈ ~70 characters per line: readable and centered */
-  max-width: 70ch;
+  max-width: 85ch;
   margin: 0 auto;           /* centers the block = left/right margins */
   padding: 0 1rem;          /* a little breathing room on the sides */
 }
@@ -28,44 +28,44 @@ permalink: /work/
 _This is a broad sampling of my projects. Details available upon request._
 
 ## Campaigns – Multi-Channel
-- **Child Health Day**
-- **National Survey of Children’s Health**
-- **Mother’s Day**
-- **Black Maternal Health Week**
-- **Back-to-School Vaccines**
+- Child Health Day
+- National Survey of Children’s Health
+- Mother’s Day
+- Black Maternal Health Week
+- Back-to-School Vaccines
 
 ## Written Storytelling
-- **Do You Want to Hold My Baby?** — Not all deliveries and births go as we would hope. It is in those times that doula support can lead to better care for moms. A story of how the strength of a mother and the support of a doula leads to transformation after the loss of a child.
-- **Fighting the Good Fight** — When a single mother found support at one of the Family-to-Family Health Information Centers, she regained her resolve to tackle life’s challenges for the sake of her family and her community.
-- **A Family’s Journey** — One family’s journey to provide an accessible world to their child with special health care needs.
-- **An Effective Weapon to Fight Cervical Cancer in Botswana: See and Treat** — Sometimes the most effective health care is also the simplest and most cost-effective.
+- _Do You Want to Hold My Baby?_ — Not all deliveries and births go as we would hope. It is in those times that doula support can lead to better care for moms. A story of how the strength of a mother and the support of a doula leads to transformation after the loss of a child.
+- _Fighting the Good Fight_ — When a single mother found support at one of the Family-to-Family Health Information Centers, she regained her resolve to tackle life’s challenges for the sake of her family and her community.
+- _A Family’s Journey_ — One family’s journey to provide an accessible world to their child with special health care needs.
+- _An Effective Weapon to Fight Cervical Cancer in Botswana: See and Treat_ — Sometimes the most effective health care is also the simplest and most cost-effective.
 
 ## Documentary, Instructional, Educational, and Branding Videos
 Produced for various clients, outlets, and channels:
-- Doulas Make the Difference
-- Nicole’s Journey Through Postpartum Depression
-- How Dad’s Involvement Improves Mom and Baby’s Health
-- Unlocking the Future of Maternal Health Begins with Research
-- National Survey of Children’s Health
-- Global Birth Defects App
-- Data for Action
-- Beat the Drum
-- A Legacy of Service
-- Secondary Education for Girl Advancement
-- Gardens for Better Living
-- Let Us Break the Silence
-- Living the Story: The Civil Rights Movement in Kentucky
-- Faces and Mysteries
-- A Cold Cup of Water
-- More Freedom
-- American Federation of Government Employees
-- Know Your Rights
-- The Way Forward
-- More than a Game
+- _Doulas Make the Difference_
+- _Nicole’s Journey Through Postpartum Depression_
+- _How Dad’s Involvement Improves Mom and Baby’s Health_
+- _Unlocking the Future of Maternal Health Begins with Research_
+- _National Survey of Children’s Health_
+- _Global Birth Defects App_
+- _Data for Action_
+- _Beat the Drum_
+- _A Legacy of Service_
+- _Secondary Education for Girl Advancement_
+- _Gardens for Better Living_
+- _Let Us Break the Silence_
+- _Living the Story: The Civil Rights Movement in Kentucky_
+- _Faces and Mysteries_
+- _A Cold Cup of Water_
+- _More Freedom_
+- _American Federation of Government Employees_
+- _Know Your Rights_
+- _The Way Forward_
+- _More than a Game_
 
 ## Newsletters
-- **Partners in Progress** — Twice-monthly newsletter for public health professionals (55,000 subscribers).
-- **The Loop** — Monthly newsletter for CDC Botswana.
+- _Partners in Progress_ — Twice-monthly newsletter for public health professionals (55,000 subscribers).
+- _The Loop_ — Monthly newsletter for CDC Botswana.
 
 ## Publications
 - Editorial Board, *National Library of Medicine Bookshelf*, 2023–2024  
@@ -73,5 +73,6 @@ Produced for various clients, outlets, and channels:
 - *Scaling-Up Human Resources for Health in Tanzania* — 200-page white paper  
 - *Engaging with the Public: A Guide to Developing and Following a Public Engagement Strategy*
 
-### Date last updated: <p>August 2025</p>
+### Date last updated:
+August 2025
 </section>

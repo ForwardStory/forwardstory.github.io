@@ -148,7 +148,7 @@ toc: false
     <img src="/assets/images/Destiny600X315.jpg" alt="Doula story thumbnail" style="width: 100%; border-radius: 6px;">
     <h4><em>This is Destiny</em> – The Power of Doula Care for Better Health</h4>
     <p>Doula support helped mom advocate for her needs, foster positive relationships with her doctor, and achieve improved physical and mental health.</p>
-    <p><a href="#">Read the story</a></p>
+    <p><a href="<a href="./assets/ThisIsDestiny.pdf">Read the story</a></p>
   </div>
 
   <!-- Card 3 -->

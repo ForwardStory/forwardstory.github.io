@@ -156,7 +156,7 @@ toc: false
     <img src="/assets/images/NSCH1200X630.jpg" alt="NSCH thumbnail" style="width: 100%; border-radius: 6px;">
     <h4>National Survey of Children's Health - Branding Video</h4>
     <p>Designed this video to raise awareness of this survey, strengthen public trust in the agency behind it, and encourage participation from parents and caregivers.</p>
-    <p><a href="#">Watch video</a></p>
+    <p><a href="https://youtu.be/U0an1xbKXkA">Watch video</a></p>
   </div>
 
   <!-- Card 4 -->

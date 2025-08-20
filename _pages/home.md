@@ -99,9 +99,9 @@ toc: false
     <summary>Core services include: <span class="plus" aria-hidden="true">+</span></summary>
 
     <ul class="service-list">
-      <li><strong>🟣 Content Strategy &amp; Planning</strong> — I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>
-      <li><strong>🟣 Messaging &amp; Content Packages</strong> — Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</li>
-      <li><strong>🟣 AI Integration &amp; Team Training</strong> — Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.</li>
+      <li><strong>💡 Content Strategy &amp; Planning</strong> — I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>
+      <li><strong>✏️ Messaging &amp; Content Packages</strong> — Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</li>
+      <li><strong>🤖 AI Integration &amp; Team Training</strong> — Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.</li>
     </ul>
 
     <p class="exp-note"><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
@@ -203,13 +203,13 @@ toc: false
 
     <ul class="training-list">
       <li>
-        <strong>🟣 Write It Clearly: Training for Teams (with AI-Enhanced Support)</strong> — Helps teams write clearly and confidently — with or without AI tools. You’ll learn how to turn complex ideas into accessible, actionable content, and how to use GenAI to support your process, not replace it.
+        <strong>✏️ Write It Clearly: Training for Teams (with AI-Enhanced Support)</strong> — Helps teams write clearly and confidently — with or without AI tools. You’ll learn how to turn complex ideas into accessible, actionable content, and how to use GenAI to support your process, not replace it.
       </li>
       <li>
-        <strong>🟣 Storytelling: Craft Messages That Stick, Scale, and Inspire</strong> — Helps teams and individuals bring their mission, products, or services to life with compelling, structured stories. You’ll learn how to connect messaging to audience needs, organize your ideas for clarity and flow, and use GenAI to prototype content quickly — without losing your voice. Whether you're building a brand, launching a campaign, or briefing leadership, the right story drives understanding and engagement.
+        <strong>📚 Storytelling: Craft Messages That Stick, Scale, and Inspire</strong> — Helps teams and individuals bring their mission, products, or services to life with compelling, structured stories. You’ll learn how to connect messaging to audience needs, organize your ideas for clarity and flow, and use GenAI to prototype content quickly — without losing your voice. Whether you're building a brand, launching a campaign, or briefing leadership, the right story drives understanding and engagement.
       </li>
       <li>
-        <strong>🟣 AI-Literacy for Nontechnical Teams: Be the Human in the Loop</strong> — Plain-language overview of generative AI, what it’s good at (and not), and how to use it thoughtfully in daily work. You’ll walk away with a practical, no-hype understanding of where these tools fit in your work.
+        <strong>🤖 AI-Literacy for Nontechnical Teams: Be the Human in the Loop</strong> — Plain-language overview of generative AI, what it’s good at (and not), and how to use it thoughtfully in daily work. You’ll walk away with a practical, no-hype understanding of where these tools fit in your work.
       </li>
     </ul>
   </details>

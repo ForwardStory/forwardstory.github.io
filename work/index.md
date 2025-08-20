@@ -2,7 +2,7 @@
 layout: default
 title: More Work
 permalink: /work/
-classes: splash
+classes: wide
 ---
 
 # Listing of Work

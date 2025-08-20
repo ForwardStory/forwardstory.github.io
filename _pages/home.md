@@ -46,6 +46,30 @@ toc: false
 
 /* ============ About (optional tiny top margin when open) ============ */
 #about #about-expander[open] { margin-top: .5rem; }
+/* ===== Featured cards: responsive grid ===== */
+/* Desktop default: 3 columns */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+/* Tablet: 2 columns */
+@media (max-width: 1024px) {
+  .card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Mobile: 1 column */
+@media (max-width: 640px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Safety: prevent overflow from long titles/text */
+.card-grid > * { min-width: 0; }
 </style>
 
 <!-- Hero Section -->

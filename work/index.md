@@ -39,10 +39,11 @@ _This is a broad sampling of my projects. Details available upon request._
 - _An Effective Weapon to Fight Cervical Cancer in Botswana: See and Treat_ — Sometimes the most effective health care is also the simplest and most cost-effective.
 
 ## Speechwriting / Talking Points
-- Drafted Presidential Proclamations for Child Health Day
-- Drafted talking points and written responses to media inquiries
-- Drafted Speech for U.S. Ambassador in Botswana
-- Drafted press releases for the Health Resources and Services Adminstration
+- Presidential Proclamations for Child Health Day
+- Written responses and talking points for media inquiries
+- World HIV/AIDS Day Speech for U.S. Ambassador in Botswana
+- Various press releases for the Health Resources and Services Adminstration (HRSA)
+- All Hands Meetings Talking Points for HRSA Maternal and Child Health Bureau leadership
 
 ## Documentary, Instructional, Educational, and Branding Videos
 Produced for various clients, outlets, and channels:

@@ -197,9 +197,6 @@ toc: false
 
 </section>
 
-
-
-
 <!-- Training -->
 <section id="training">
   <h2>Training</h2>

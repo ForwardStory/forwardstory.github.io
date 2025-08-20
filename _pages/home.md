@@ -38,6 +38,12 @@ toc: false
 #services .service-list li + li { margin-top: .75rem; }
 #services .exp-note { margin-top: 1rem; }
 
+/* >>> Services: keep ONLY the layout behavior; DO NOT set content here <<< */
+#services-expander > summary::after {
+  /* no content here — let the universal rule set "+" / "–" */
+  margin-left: auto;    /* keep the icon pushed right */
+}
+
 /* ===========================
    Training spacing
    =========================== */
@@ -53,43 +59,7 @@ toc: false
    (Optional) tiny top margin when open for About
    =========================== */
 #about #about-expander[open] { margin-top: .5rem; }
-
-/* ===========================
-   Force right-justified +/– specifically for Services
-   =========================== */
-#services-expander > summary {
-  display: flex !important; 
-  align-items: center; 
-  gap: .4rem; 
-}
-#services-expander > summary::after {
-  content: "+" !important; 
-  margin-left: auto; 
-  font-weight: 700;
-}
-#services-expander[open] > summary::after {
-  content: "–" !important; 
-}
-/* ===== Force right-justified +/– specifically for Services ===== */
-#services-expander > summary {
-  display: flex !important;           /* ensure flex, not inline/list-item */
-  align-items: center !important;
-  justify-content: space-between !important;  /* push icon to far right */
-  width: 100% !important;                      /* give room for the right icon */
-}
-
-#services-expander > summary::after {
-  content: "+" !important;             /* show right-side + when closed */
-  display: inline-block !important;
-  margin-left: .5rem !important;
-  font-weight: 700;
-}
-
-#services-expander[open] > summary::after {
-  content: "–" !important;             /* flip to – when open */
-}
 </style>
-
 
 
 <!-- Hero Section -->

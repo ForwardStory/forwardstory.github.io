@@ -2,7 +2,7 @@
 layout: default
 title: More Work
 permalink: /work/
-classes: wide
+classes: narrow
 ---
 
 

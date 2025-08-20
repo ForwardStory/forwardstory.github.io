@@ -7,15 +7,14 @@ classes: wide
 toc: false
 ---
 <style>
-/* ===========================
-   Universal expander behavior
-   =========================== */
+/* ============ Universal expander behavior (works for Services, About, Training) ============ */
 .expander summary {
-  display: flex;                 /* push right icon all the way right */
+  display: flex;                 /* lets us push the right icon to the edge */
   align-items: center;
   gap: .4rem;
   cursor: pointer;
   list-style: none;
+  width: 100%;                   /* ensure the right icon has space to align right */
 }
 .expander summary::-webkit-details-marker { display: none; }
 
@@ -26,11 +25,9 @@ toc: false
 /* Left inline plus (next to the label text) */
 .expander .plus { font-weight: 700; }
 
-/* ===========================
-   Services spacing
-   =========================== */
+/* ============ Services spacing ============ */
 #services .service-list {
-  margin: 1rem 0 1rem 1.5rem;   /* space above & below list */
+  margin: 1rem 0 1rem 1.5rem;    /* space above & below list */
   padding-left: .5rem;
   font-size: .95rem;
   line-height: 1.55;
@@ -38,26 +35,16 @@ toc: false
 #services .service-list li + li { margin-top: .75rem; }
 #services .exp-note { margin-top: 1rem; }
 
-/* >>> Services: keep ONLY the layout behavior; DO NOT set content here <<< */
-#services-expander > summary::after {
-  /* no content here — let the universal rule set "+" / "–" */
-  margin-left: auto;    /* keep the icon pushed right */
-}
-
-/* ===========================
-   Training spacing
-   =========================== */
+/* ============ Training spacing ============ */
 #training .training-list {
-  margin: 1rem 0 0 1.5rem;      /* space above list */
+  margin: 1rem 0 0 1.5rem;       /* space above list */
   padding-left: .5rem;
   font-size: .95rem;
   line-height: 1.55;
 }
 #training .training-list li { margin-bottom: .75rem; }
 
-/* ===========================
-   (Optional) tiny top margin when open for About
-   =========================== */
+/* ============ About (optional tiny top margin when open) ============ */
 #about #about-expander[open] { margin-top: .5rem; }
 </style>
 

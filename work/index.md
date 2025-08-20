@@ -3,35 +3,6 @@ layout: default
 title: More Work
 permalink: /work/
 ---
-<style>
-/* Work page card grid (3→2→1) */
-#work-grid .card-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1rem;
-}
-@media (max-width: 1024px) {
-  #work-grid .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-}
-@media (max-width: 640px) {
-  #work-grid .card-grid { grid-template-columns: 1fr; }
-}
-
-/* Simple card styling */
-#work-grid .card {
-  background: #fff;
-  border: 1px solid #e8e8e8;
-  border-radius: 14px;
-  box-shadow: 0 4px 12px rgba(0,0,0,.04);
-  overflow: hidden;
-}
-#work-grid .card-body { padding: 0.9rem; }
-#work-grid .card-title { margin: 0 0 .25rem 0; font-size: 1.05rem; line-height: 1.3; }
-#work-grid .card-text { margin: 0; font-size: .95rem; line-height: 1.5; }
-
-/* Make sure paragraphs/lists above the grid read nicely */
-#work h1, #work h2, #work-grid h2 { margin-top: 1.25rem; }
-</style>
 
 # Sample Listing of Work
 _This is a broader sampling of my projects. Details available upon request._
@@ -81,30 +52,3 @@ Produced for various clients, outlets, and channels:
 - “Global Birth Defects App,” *Birth Defects Research*, 2021. DOI: 10.1002/bdr2.1898  
 - *Scaling-Up Human Resources for Health in Tanzania* — 200-page white paper  
 - *Engaging with the Public: A Guide to Developing and Following a Public Engagement Strategy*
-
-<!-- Optional: visual grid of highlight items -->
-<section id="work-grid" class="cards">
-  <h2>Highlights</h2>
-  <div class="card-grid">
-    <article class="card">
-      <div class="card-body">
-        <h3 class="card-title">Black Maternal Health Week</h3>
-        <p class="card-text">Integrated multi-channel campaign.</p>
-      </div>
-    </article>
-
-    <article class="card">
-      <div class="card-body">
-        <h3 class="card-title">A Family’s Journey</h3>
-        <p class="card-text">Systems-change storytelling for policymakers.</p>
-      </div>
-    </article>
-
-    <article class="card">
-      <div class="card-body">
-        <h3 class="card-title">National Survey of Children’s Health</h3>
-        <p class="card-text">Branding/awareness video to encourage participation.</p>
-      </div>
-    </article>
-  </div>
-</section>

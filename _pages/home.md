@@ -141,7 +141,7 @@ toc: false
 <!-- Featured Work -->
 <section id="portfolio">
 <h2>Featured Work</h2>
-<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve designed and delivered training. These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done? Find this list of sample projects. Or, <a href="./assets/ForwardStoryResumeAug2025.pdf">view my resume</a>.</p>
+<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve designed and delivered training. These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done? <a href="/work/">See more work</a>. Or, <a href="/assets/ForwardStoryResumeAug2025.pdf">view my resume</a>.
 
 <div class="card-grid" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5em;">
 

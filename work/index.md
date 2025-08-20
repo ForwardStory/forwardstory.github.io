@@ -5,7 +5,7 @@ permalink: /work/
 ---
 
 # Sample Listing of Work
-_This is a broader sampling of my projects. Details available upon request._
+_This is broader sampling of my projects. Details available upon request._
 
 ## Campaigns – Multi-Channel
 - **Child Health Day**
@@ -20,7 +20,7 @@ _This is a broader sampling of my projects. Details available upon request._
 - **A Family’s Journey** — One family’s journey to provide an accessible world to their child with special health care needs.
 - **An Effective Weapon to Fight Cervical Cancer in Botswana: See and Treat** — Sometimes the most effective health care is also the simplest and most cost-effective.
 
-## Documentary, Instructional, and Celebratory Videos
+## Documentary, Instructional, Educational, and Branding Videos
 Produced for various clients, outlets, and channels:
 - Doulas Make the Difference
 - Nicole’s Journey Through Postpartum Depression

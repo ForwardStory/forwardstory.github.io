@@ -46,6 +46,23 @@ toc: false
 
 /* ============ About (optional tiny top margin when open) ============ */
 #about #about-expander[open] { margin-top: .5rem; }
+/* --- Services: render right icon via a dedicated span, and disable the pseudo-element --- */
+#services-expander > summary { 
+  display: flex; 
+  align-items: center; 
+  gap: .4rem; 
+}
+#services-expander > summary::after { 
+  content: "";            /* turn off the universal ::after for Services to avoid duplicates */
+}
+#services-expander > summary .right-icon::after {
+  content: "+";           /* show + when closed */
+  margin-left: auto; 
+  font-weight: 700;
+}
+#services-expander[open] > summary .right-icon::after {
+  content: "–";           /* flip to – when open */
+}
 </style>
 
 
@@ -72,7 +89,12 @@ toc: false
   </p>
 
   <details class="expander" id="services-expander">
-    <summary>Core services include: <span class="plus" aria-hidden="true">+</span></summary>
+    <summary>
+  Core services include:
+  <span class="plus" aria-hidden="true">+</span>
+  <span class="right-icon" aria-hidden="true"></span>
+</summary>
+
 
     <ul class="service-list">
       <li><strong>🟣 Content Strategy &amp; Planning</strong> — I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>

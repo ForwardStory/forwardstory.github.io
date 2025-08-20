@@ -3,25 +3,36 @@ layout: default
 title: More Work
 permalink: /work/
 classes: work-narrow
----
-<style>
-/* Only affects this page because of the .work-narrow class */
-.work-narrow .page__content {
-  max-width: 60rem;   /* about 960px on large screens */
-  margin: 0 auto;     /* keeps it centered */
-  padding: 0 2rem;    /* restores side breathing room */
-  line-height: 1.6;   /* improves readability */
+---<style>
+/* A self-contained wrapper we fully control */
+.work-wrap {
+  max-width: 85ch;        /* adjust: try 80–90ch */
+  margin: 0 auto;         /* centers = left/right margins */
+  padding: 0 1.25rem;     /* inner breathing room so text never hugs edges */
+  line-height: 1.6;
 }
 
-/* optional tweaks for lists & headings */
-.work-narrow .page__content h1, 
-.work-narrow .page__content h2 { margin: 1.25rem 0 .5rem; }
-.work-narrow .page__content p { margin: 0 0 1rem; }
-.work-narrow .page__content ul { margin: .25rem 0 1rem; padding-left: 1.5rem; }
-.work-narrow .page__content li + li { margin-top: .35rem; }
+/* Headings & lists niceties */
+.work-wrap h1, 
+.work-wrap h2 { margin: 1.25rem 0 .5rem; }
+.work-wrap p { margin: 0 0 1rem; }
+.work-wrap ul { margin: .25rem 0 1rem; padding-left: 1.25rem; }
+.work-wrap li + li { margin-top: .35rem; }
+
+/* Optional: on very large screens, allow a bit wider */
+@media (min-width: 1280px) {
+  .work-wrap { max-width: 95ch; }
+}
+
+/* Optional: on small screens, keep comfy side padding */
+@media (max-width: 640px) {
+  .work-wrap { padding: 0 1rem; }
+}
 </style>
 
-<section id="work" markdown="1">
+
+<section id="work" class="work-wrap" markdown="1">
+
 # Sample Listing of Work
 _This is a broad sampling of my projects. Details available upon request._
 

@@ -7,7 +7,7 @@ classes: work-narrow
 <style>
 /* Only affects this page because of the .work-narrow class */
 .work-narrow .page__content {
-  max-width: 85ch;     /* adjust to taste: try 80–90ch */
+  max-width: 75ch;     /* adjust to taste: try 80–90ch */
   margin: 0 auto;      /* centers it (creates left/right margins) */
   padding: 0 1rem;     /* a little side breathing room */
 }

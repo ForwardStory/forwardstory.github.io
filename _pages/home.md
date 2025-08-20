@@ -55,6 +55,20 @@ toc: false
 #about #about-expander[open] { margin-top: .5rem; }
 </style>
 
+/* Force the right-side +/– on Services, even if markup varies */
+#services details > summary { 
+  display: flex !important; 
+  align-items: center; 
+  gap: .4rem; 
+}
+#services details > summary::after { 
+  content: "+"; 
+  margin-left: auto; 
+}
+#services details[open] > summary::after { 
+  content: "–"; 
+}
+
 
 
 <!-- Hero Section -->

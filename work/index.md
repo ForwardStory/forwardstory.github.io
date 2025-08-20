@@ -36,6 +36,12 @@ _This is a broad sampling of my projects. Details available upon request._
 - _A Family’s Journey_ — One family’s journey to provide an accessible world to their child with special health care needs.
 - _An Effective Weapon to Fight Cervical Cancer in Botswana: See and Treat_ — Sometimes the most effective health care is also the simplest and most cost-effective.
 
+## Speechwriting / Talking Points
+- Drafted Presidential Proclamations for Child Health Day
+- Drafted talking points and written responses to media inquiries
+- Drafted Speech for U.S. Ambassador in Botswana
+- Drafted press releases for the Health Resources and Services Adminstration
+
 ## Documentary, Instructional, Educational, and Branding Videos
 Produced for various clients, outlets, and channels:
 - _Doulas Make the Difference_

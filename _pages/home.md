@@ -114,18 +114,28 @@ toc: false
 <section id="about">
   <h2>About Me</h2>
 
-  <p>I’m a communications strategist with a proven record of helping organizations clarify complex ideas and connect with the people they serve. My background spans government, global health, public service, mission-driven work, and small business needs — including projects with CDC, USAID, Deloitte, Peace Corps, University of Washington, and Johns Hopkins.</p>
+  <p>I help organizations strategize their communication goals, using best practices, storytelling, and evolving AI tools—with a strong bias for action and a foundation in global health. Across 3 continents and 6 countries, I’ve served clients and teams across government, academic, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. That work shaped my approach: grounded in integrity, creativity, and in service to people.</p>
 
   <details class="expander" id="about-expander">
     <summary>Learn a little more about me <span class="plus" aria-hidden="true">+</span></summary>
 
-    <p>I’ve worked across six countries and three continents, always focused on making communication more effective, accessible, and meaningful.</p>
-
-    <p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
+    <p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, speaking engagements, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
 
     <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
+
+    <p><strong>My motto:</strong> <em>Practice makes progress.</em></p>
+
+    <p><strong>Core Values and Strengths:</strong></p>
+    <ul class="about-list">
+      <li>Adaptability</li>
+      <li>Commitment</li>
+      <li>Relationships</li>
+      <li>Integrity</li>
+      <li>Courage</li>
+    </ul>
   </details>
 </section>
+
 
 
 <!-- Featured Work -->

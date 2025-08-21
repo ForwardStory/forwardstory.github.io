@@ -130,9 +130,14 @@ classes: work-page
   <p>HRSA's inaugural Black Maternal Health Week campaign focused on doula care and its impact on maternal health outcomes. The approach centered on authentic storytelling through user-generated video content and a partner photo contest that engaged the broader community in visual narrative-building.</p>
 
   <h3>2024: Expanding Impact</h3>
+  <img src="/assets/images/BMHWsquarePartnerPurpose.jpg" alt="Partnering graphic" class="inline-img left">
   <p>The second year marked a significant expansion with a comprehensive, multi-channel approach that set new standards for HRSA's public health campaigns. The Vice President’s Office, HHS, HUD, state public health agencies, and community-based organizations engaged in the social media campaign.</p>
 
   <p><strong>Core Content:</strong> Four two-minute video vignettes, each paired with written stories:</p>
+   <!-- Inline, constrained video on the right -->
+  <div class="video-inline">
+    <iframe src="https://www.youtube.com/embed/ysz5S6PUM-U" allowfullscreen title="Campaign video 1"></iframe>
+  </div>
   <ul>
     <li>Research excellence in maternal health</li>
     <li>Healthy Start Program community impact, featuring the importance of fatherhood</li>
@@ -140,10 +145,7 @@ classes: work-page
     <li>Maternal Mental Health Hotline, featuring a personal postpartum depression journey</li>
   </ul>
 
-  <!-- Inline, constrained video on the right -->
-  <div class="video-inline">
-    <iframe src="https://www.youtube.com/embed/ysz5S6PUM-U" allowfullscreen title="Campaign video 1"></iframe>
-  </div>
+ 
 
   <p><strong>Innovation: Comprehensive Partnership Toolkit.</strong> For the first time, HRSA developed downloadable resources that partners could customize:</p>
   <ul>
@@ -169,7 +171,7 @@ classes: work-page
 
   <h2>Results and Recognition</h2>
 
-  <img src="/assets/images/BMHWsquarePartnerPurpose.jpg" alt="Results graphic" class="inline-img right">
+  <img src="/assets/images/BMHWsquareBumpBeyond.jpg" alt="Results graphic" class="inline-img left">
 
   <p>The campaign’s dedicated webpage, <em>Strengthening Black Maternal Health</em>, became the most-visited section of HRSA’s Maternal and Child Health Bureau website during Black Maternal Health Week. The multi-platform promotion strategy created multiple engagement opportunities across social media, newsletters, speaking events, and an HRSA-hosted webinar, <em>Unlocking the Future of Maternal Health Begins with Research</em>.</p>
 

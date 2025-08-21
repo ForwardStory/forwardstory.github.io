@@ -114,7 +114,7 @@ classes: work-page
 
 <p><strong>Core Content:</strong> Four two-minute video vignettes, each paired with written stories:</p>
 
-<!-- Inline, constrained video on the right -->
+<!-- Move video before the bullet list so it floats alongside -->
 <div class="video-inline">
   <iframe src="https://www.youtube.com/embed/cs7wvSViTAM" allowfullscreen title="Campaign video 1"></iframe>
 </div>
@@ -127,23 +127,30 @@ classes: work-page
 </ul>
 
 
-  <p><strong>Innovation: Comprehensive Partnership Toolkit.</strong> For the first time, HRSA developed downloadable resources that partners could customize:</p>
-  <!-- Second inline, constrained video on the right -->
-  <div class="video-inline">
-    <iframe src="https://www.youtube.com/embed/3mOvkEkEMMg" allowfullscreen title="User-generated 2024 video"></iframe>
-  </div>
-  <ul>
-    <li>Graphic cards</li>
-    <li>Adaptable social media messaging</li>
-    <li>Newsletter content templates</li>
-    <li>Implementation guidance for community organizations</li>
-  </ul>
+<!-- Float the video first -->
+<div class="video-inline">
+  <iframe src="https://www.youtube.com/embed/3mOvkEkEMMg" allowfullscreen title="User-generated 2024 video"></iframe>
+</div>
+
+<p>
+  <strong>Innovation: Comprehensive Partnership Toolkit.</strong> 
+  For the first time, HRSA developed downloadable resources that partners could customize:
+</p>
+
+<ul>
+  <li>Graphic cards</li>
+  <li>Adaptable social media messaging</li>
+  <li>Newsletter content templates</li>
+  <li>Implementation guidance for community organizations</li>
+</ul>
+
 
   <div class="hr"></div>
 
   <h2>Centering Lived Experience</h2>
+    <img src="/assets/images/BMHWfatima.jpg" alt="Participants meeting with HRSA staff" class="inline-img right">
   <p>A defining element of the 2024 campaign was bringing story participants into a pre-launch meeting with HRSA staff. This approach went beyond featuring people’s experiences—it demonstrated genuine partnership and respect for the communities being served. The meeting allowed participants to connect directly with staff while showing institutional commitment to community-centered work.</p>
-  <img src="/assets/images/BMHWfatima.jpg" alt="Participants meeting with HRSA staff" class="inline-img right">
+
 
   <div class="hr"></div>
 

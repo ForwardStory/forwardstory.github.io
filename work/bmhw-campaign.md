@@ -130,8 +130,9 @@ classes: work-page
 <p>&nbsp;</p>
 
   <h3>2024: Expanding Impact</h3>
-  <img src="/assets/images/BMHWsquarePartnerPurpose.jpg" alt="Partnering graphic" class="inline-img right">
+
   <p>The second year marked a significant expansion with a comprehensive, multi-channel approach that set new standards for HRSA's public health campaigns. The Vice President’s Office, HHS, HUD, state public health agencies, and community-based organizations engaged in the social media campaign.</p>
+  <img src="/assets/images/BMHWsquarePartnerPurpose.jpg" alt="Partnering graphic" class="inline-img right">
   
 
   <p><strong>Core Content:</strong> Four two-minute video vignettes, each paired with written stories:</p>

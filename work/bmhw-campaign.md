@@ -80,8 +80,6 @@ classes: work-page
   <img src="/assets/images/bmhw-2024-web-banner.jpg" alt="Campaign Banner">
 </div>
 
-<div class="case">
-
 ## Campaign Overview
 
 - **Goal:** Raise awareness of Black maternal health disparities, position the Health Resources and Services Administration (HRSA) as a committed partner in advancing health equity, and encourage use of the National Maternal Health Hotline.  

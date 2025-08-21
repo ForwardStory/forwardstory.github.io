@@ -90,7 +90,7 @@ classes: work-page
 
 ## Campaign Evolution
 
-<img src="/assets/images/BMHWicon2023.png" alt="Campaign Graphic" class="inline-img left">
+<img src="/assets/images/BMHWicon2023.jpg" alt="Campaign Graphic" class="inline-img left">
 
 ### 2023: Building the Foundation
 HRSA's inaugural Black Maternal Health Week campaign focused on doula care and its impact on maternal health outcomes. The approach centered on authentic storytelling through user-generated video content and a partner photo contest that engaged the broader community in visual narrative-building.  

@@ -150,7 +150,7 @@ toc: false
     <img src="/assets/images/be-inspired-facebook.jpg" alt="Black Maternal Health Week thumbnail" style="width: 100%; border-radius: 6px;">
     <h4>Black Maternal Health Week - Integrated Campaign</h4>
     <p>Pioneered and executed a multi-channel campaign, integrating social, video, and written stories, boosting digital engagement and strengthening partner relationships.</p>
-    <p><a href="#">Learn more</a></p>
+    <p><a href="/work/bmhw-campaign/">Learn more</a></p>
   </div>
 
   <!-- Card 2 -->

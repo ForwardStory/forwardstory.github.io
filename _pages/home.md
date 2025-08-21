@@ -81,7 +81,7 @@ toc: false
   </p>
   <p><em>I can help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
   Let’s work together to move from your BackStory to your ForwardStory!</em></p>
-<p>📬 <a href="mailto:katy@myforwardstory.com">forwardstory@gmail.com</a></p>
+<p>📬 <a href="mailto:katy@myforwardstory.com">katy@myforwardstory.com</a></p>
 </header>
 
 <!-- Navigation Links -->
@@ -224,5 +224,5 @@ toc: false
 <section id="contact">
 <h2>Contact</h2>
 <p>📍 Wherever there is wifi | Reach out if you'd like to collaborate, build clearer content, or explore AI tools for your team:</p>  
-<p>📬 <a href="mailto:katy@myforwardstory.com">forwardstory@gmail.com</a></p>
+<p>📬 <a href="mailto:katy@myforwardstory.com">katy@forwardstory.com</a></p>
 </section>

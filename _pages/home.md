@@ -200,7 +200,7 @@ toc: false
 
   <p>Need help getting practical in this evolving AI landscape? Struggle with helping your teams to write clearly and effectively? Looking for someone to help enable your nontechnical teams to use AI tools and understand what they can and can’t quite do?</p>
 
-  <p>I can help! Feel free to get in touch. 📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
+  <p>I can help! Feel free to get in touch. 📬 <a href="mailto:katy@myforwardstory.com">katy@myforwardstory.com</a></p>
 
   <details class="expander" id="training-expander">
     <summary>See training offerings <span class="plus" aria-hidden="true">+</span></summary>

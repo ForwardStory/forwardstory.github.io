@@ -128,7 +128,6 @@ classes: work-page
   <img src="/assets/images/BMHWicon2023.jpg" alt="Icon for 2023 campaign" class="inline-img left">
   <p>HRSA's inaugural Black Maternal Health Week campaign focused on doula care and its impact on maternal health outcomes. The approach centered on authentic storytelling through user-generated video content and a partner photo contest that engaged the broader community in visual narrative-building. We gathered metrics across web and social media as well as stakeholder feedback to inform the next iteration of the campaign in 2024.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
   <h3>2024: Expanding Impact</h3>
 

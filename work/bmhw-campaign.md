@@ -171,7 +171,7 @@ classes: work-page
 
   <h2>Results and Recognition</h2>
 
-  <img src="/assets/images/BMHWsquareBumpBeyond.jpg" alt="Results graphic" class="inline-img left">
+  <img src="/assets/images/BMHWsquareBumpBeyond.jpg" alt="Partnering graphic" class="inline-img left">
 
   <p>The campaign’s dedicated webpage, <em>Strengthening Black Maternal Health</em>, became the most-visited section of HRSA’s Maternal and Child Health Bureau website during Black Maternal Health Week. The multi-platform promotion strategy created multiple engagement opportunities across social media, newsletters, speaking events, and an HRSA-hosted webinar, <em>Unlocking the Future of Maternal Health Begins with Research</em>.</p>
 

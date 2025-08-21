@@ -79,7 +79,7 @@ toc: false
   <p style="font-size: 1.2em; margin-top: 0;">
     Communications Strategist and Content Creator
   </p>
-  <p><em>I help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
+  <p><em>I can help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
   Let’s work together to move from your BackStory to your ForwardStory!</em></p>
 <p>📬 <a href="mailto:forwardstory@gmail.com">forwardstory@gmail.com</a></p>
 </header>
@@ -91,7 +91,7 @@ toc: false
   <h2>What I Can Do for You</h2>
 
   <p>
-    I work with organizations, teams, and individuals to clarify your communication goals and develop a strategy that gets you where you want to go.
+    I can work with you and your team to clarify your communication goals and develop a strategy that gets you where you want to go.
     When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.
   </p>
 
@@ -99,12 +99,12 @@ toc: false
     <summary>Core services include: <span class="plus" aria-hidden="true">+</span></summary>
 
     <ul class="service-list">
-      <li><strong>💡 Content Strategy &amp; Planning</strong> — I’ll review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>
+      <li><strong>💡 Content Strategy &amp; Planning</strong> — I will review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>
       <li><strong>✏️ Messaging &amp; Content Packages</strong> — Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</li>
       <li><strong>🤖 AI Integration &amp; Team Training</strong> — Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.</li>
     </ul>
 
-    <p class="exp-note"><em>Need something not listed here? Let’s talk – I shape my services around your real needs.</em></p>
+    <p class="exp-note"><em>Need something not listed here? Let’s talk – I will shape my services around your needs.</em></p>
   </details>
 </section>
 
@@ -114,12 +114,12 @@ toc: false
 <section id="about">
   <h2>About Me</h2>
 
-  <p>I have a bias for action and a foundation in public health. I enjoy helping organizations reach their communication goals, using best practices, storytelling, and evolving AI tools. Across 3 continents and 6 countries, I’ve served clients and teams across government, academic, private, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. My approach: grounded in integrity, creativity, and in service to people.</p>
+  <p>I have a foundation in public health and a bias for action. I enjoy helping organizations reach their communication goals, using best practices, storytelling, and evolving AI tools. Across 3 continents and 6 countries, I’ve served clients and teams across the government, academic, private, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. My approach is grounded in integrity, creativity, and service to people.</p>
 
   <details class="expander" id="about-expander">
     <summary>Learn a little more about me <span class="plus" aria-hidden="true">+</span></summary>
 
-    <p>I’ve helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, speaking engagements, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
+    <p>I have helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, speaking engagements, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
 
     <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
 
@@ -157,7 +157,7 @@ toc: false
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
     <img src="/assets/images/Destiny600X315.jpg" alt="Doula story thumbnail" style="width: 100%; border-radius: 6px;">
     <h4><em>This is Destiny</em> – The Power of Doula Care for Better Health</h4>
-    <p>Doula support helped mom advocate for her needs, foster positive relationships with her doctor and health care teams, and achieve improved physical and mental health.</p>
+    <p>Doula Kianna's support helped this mom advocate for her needs, foster positive relationships with her doctor and health care teams, and achieve improved physical and mental health.</p>
     <p><a href="./assets/ThisIsDestiny.pdf">Read the story</a></p>
   </div>
 
@@ -173,7 +173,7 @@ toc: false
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
     <img src="/assets/images/F2F1200X630.jpg" alt="Family's Journey thumbnail" style="width: 100%; border-radius: 6px;">
     <h4><em>A Family’s Journey</em> – Systems Change Storytelling</h4>
-    <p>Follow one family’s experience navigating complex medical, educational, and social challenges, and the critical support they received from their "F2F" center. I wrote this narrative for Congressional decision-makers and for support centers to tell their story.</p>
+    <p>Follow Ben's family experience navigating complex medical, educational, and social challenges, and the critical support they received from their "F2F" center. I wrote this narrative for Congressional decision-makers and for support centers to tell their story.</p>
     <p><a href="./assets/f2f-ben-family-journey.pdf">Read the story</a></p>
   </div>
 

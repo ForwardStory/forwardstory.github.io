@@ -123,4 +123,19 @@ The second year marked a significant expansion with a comprehensive, multi-chann
 
 ## Centering Lived Experience
 
-A defining element of the 2024 campaign was
+A defining element of the 2024 campaign was bringing story participants into a pre-launch meeting with HRSA staff. This approach went beyond featuring people’s experiences — it demonstrated genuine partnership and respect for the communities being served. The meeting allowed participants to connect directly with staff while showing institutional commitment to community-centered work.  
+
+<img src="/assets/images/supporting-graphic-placeholder.jpg" alt="Supporting Graphic" class="inline-img right">
+
+---
+
+## Results and Recognition
+
+<img src="/assets/images/results-placeholder.jpg" alt="Results Graphic" class="inline-img right">
+
+The campaign’s dedicated webpage, *Strengthening Black Maternal Health*, became the most-visited section of HRSA’s Maternal and Child Health Bureau website during Black Maternal Health Week. The multi-platform promotion strategy created multiple engagement opportunities across social media, newsletters, speaking events, and an HRSA-hosted webinar, *Unlocking the Future of Maternal Health Begins with Research*.  
+
+---
+
+### Date last updated:
+August 2025

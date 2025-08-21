@@ -105,16 +105,19 @@ classes: work-page
 
   <div class="hr"></div>
 
- <h3>2024: Expanding Impact</h3>
+<h3>2024: Expanding Impact</h3>
 
-<!-- Move the partner graphic up here -->
+<!-- Partner graphic tucked right under the heading -->
 <img src="/assets/images/BMHWsquarePartnerPurpose.jpg" alt="Partnering graphic" class="inline-img right">
 
 <p>The second year marked a significant expansion with a comprehensive, multi-channel approach that set new standards for HRSA's public health campaigns. The Vice President’s Office, HHS, HUD, state public health agencies, and community-based organizations engaged in the social media campaign.</p>
 
 <p><strong>Core Content:</strong> Four two-minute video vignettes, each paired with written stories:</p>
 
-<!-- Move video before the bullet list so it floats alongside -->
+<!-- Clear floats so the video doesn’t collide with the image -->
+<div style="clear: both;"></div>
+
+<!-- Video floats right, opposite bullet list -->
 <div class="video-inline">
   <iframe src="https://www.youtube.com/embed/cs7wvSViTAM" allowfullscreen title="Campaign video 1"></iframe>
 </div>
@@ -126,8 +129,7 @@ classes: work-page
   <li>Maternal Mental Health Hotline, featuring a personal postpartum depression journey</li>
 </ul>
 
-
-<!-- Float the video first -->
+<!-- Second video remains aligned with "Innovation" block -->
 <div class="video-inline">
   <iframe src="https://www.youtube.com/embed/3mOvkEkEMMg" allowfullscreen title="User-generated 2024 video"></iframe>
 </div>

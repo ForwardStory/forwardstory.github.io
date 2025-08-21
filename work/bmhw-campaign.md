@@ -14,15 +14,16 @@ classes: work-page
   line-height: 1.6;
 }
 
-/* Banner constrained to content width */
+/* Banner inside the content column */
+.banner { margin: 1rem 0 1.25rem; }
 .banner img {
+  display: block;
   width: 100%;
+  max-height: 220px;
   height: auto;
-  max-height: 240px;              /* keep banner from dominating */
   object-fit: cover;
   border-radius: 6px;
-  display: block;
-  margin-bottom: 1.25rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,.06);
 }
 
 /* Soft callout box (Key Takeaways) */
@@ -35,69 +36,38 @@ classes: work-page
 }
 
 /* Constrain ALL images inside the case */
-.case img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 6px;
-}
+.case img { max-width: 100%; height: auto; border-radius: 6px; }
 
-/* Inline images: ~half the earlier size, with float */
-.inline-img.left,
-.inline-img.right {
-  max-width: 19%;                 /* ~quarter of content width */
-}
+/* Inline images */
+.inline-img.left, .inline-img.right { max-width: 19%; }
 .inline-img.left  { float: left;  margin: 0 1.25rem 1rem 0; }
 .inline-img.right { float: right; margin: 0 0 1rem 1.25rem; }
 
 /* Inline (small) video that sits with text */
 .video-inline {
   float: right;
-  width: min(320px, 40%);         /* ≈ quarter-ish width */
+  width: min(320px, 40%);
   aspect-ratio: 16 / 9;
   margin: 0 0 1rem 1rem;
   overflow: hidden;
   border-radius: 6px;
 }
-.video-inline iframe {
-  width: 100%;
-  height: 100%;
-  border: 0;
-}
+.video-inline iframe { width: 100%; height: 100%; border: 0; }
 
-/* Full-width (capped) video block, if needed elsewhere */
-.video-embed {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  margin: 1.25rem auto;
-  max-width: 48rem;               /* cap around 768px */
-}
-.video-embed iframe {
-  position: absolute; top: 0; left: 0;
-  width: 100%; height: 100%;
-  border: 0; border-radius: 6px;
-}
+/* Full-width (capped) video block, if needed */
+.video-embed { position: relative; padding-bottom: 56.25%; height: 0; margin: 1.25rem auto; max-width: 48rem; }
+.video-embed iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 6px; }
 
 /* Simple separators */
 .hr { border-top: 1px solid #e5e5e5; margin: 1.5rem 0; }
 
 /* Mobile tweaks: stack floats */
 @media (max-width: 768px) {
-  .inline-img.left,
-  .inline-img.right,
-  .video-inline {
-    float: none;
-    width: 100%;
-    max-width: 100%;
-    margin: 1rem 0;
+  .inline-img.left, .inline-img.right, .video-inline {
+    float: none; width: 100%; max-width: 100%; margin: 1rem 0;
   }
 }
 </style>
-
-<!-- Banner -->
-<div class="banner">
-  <img src="/assets/images/bmhw-2024-web-banner.jpg" alt="Black Maternal Health Week campaign banner">
-</div>
 
 <div class="case">
 
@@ -106,6 +76,11 @@ classes: work-page
     <li><strong>Goal:</strong> Raise awareness of Black maternal health disparities, position the Health Resources and Services Administration (HRSA) as a committed partner in advancing health equity, and encourage use of the National Maternal Health Hotline.</li>
     <li><strong>Audience:</strong> Public health professionals, advocates, and organizations at federal, state, and local levels.</li>
   </ul>
+
+  <!-- Banner as full-width column divider -->
+  <div class="banner">
+    <img src="/assets/images/bmhw-2024-web-banner.jpg" alt="Campaign Banner">
+  </div>
 
   <div class="hr"></div>
 
@@ -121,6 +96,9 @@ classes: work-page
   </div>
 
   <div class="hr"></div>
+
+</div><!-- /.case -->
+
 
   <h2>Campaign Evolution</h2>
 

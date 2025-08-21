@@ -193,7 +193,6 @@ toc: false
     <p><em>Details available upon request.</em></p>
   </div>
 
-</section>
 
 <!-- Training -->
 <section id="training">

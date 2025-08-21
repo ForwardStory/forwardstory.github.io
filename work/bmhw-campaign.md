@@ -155,7 +155,7 @@ classes: work-page
 
   <!-- Second inline, constrained video on the right -->
   <div class="video-inline">
-    <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY" allowfullscreen title="Campaign video 2"></iframe>
+    <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY" allowfullscreen title="User-generated 2023 video 2"></iframe>
   </div>
 
   <div class="hr"></div>
@@ -163,13 +163,13 @@ classes: work-page
   <h2>Centering Lived Experience</h2>
   <p>A defining element of the 2024 campaign was bringing story participants into a pre-launch meeting with HRSA staff. This approach went beyond featuring people’s experiences—it demonstrated genuine partnership and respect for the communities being served. The meeting allowed participants to connect directly with staff while showing institutional commitment to community-centered work.</p>
 
-  <img src="/assets/images/supporting-graphic-placeholder.jpg" alt="Participants meeting with HRSA staff" class="inline-img right">
+  <img src="/assets/images/BMHWfatima.jpg" alt="Participants meeting with HRSA staff" class="inline-img right">
 
   <div class="hr"></div>
 
   <h2>Results and Recognition</h2>
 
-  <img src="/assets/images/results-placeholder.jpg" alt="Results graphic" class="inline-img right">
+  <img src="/assets/images/BMHWsquarePartnerPurpose.jpg" alt="Results graphic" class="inline-img right">
 
   <p>The campaign’s dedicated webpage, <em>Strengthening Black Maternal Health</em>, became the most-visited section of HRSA’s Maternal and Child Health Bureau website during Black Maternal Health Week. The multi-platform promotion strategy created multiple engagement opportunities across social media, newsletters, speaking events, and an HRSA-hosted webinar, <em>Unlocking the Future of Maternal Health Begins with Research</em>.</p>
 

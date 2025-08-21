@@ -105,21 +105,27 @@ classes: work-page
 
   <div class="hr"></div>
 
-  <h3>2024: Expanding Impact</h3>
-  <p>The second year marked a significant expansion with a comprehensive, multi-channel approach that set new standards for HRSA's public health campaigns. The Vice President’s Office, HHS, HUD, state public health agencies, and community-based organizations engaged in the social media campaign.</p>
-  <img src="/assets/images/BMHWsquarePartnerPurpose.jpg" alt="Partnering graphic" class="inline-img right">
+ <h3>2024: Expanding Impact</h3>
 
-  <p><strong>Core Content:</strong> Four two-minute video vignettes, each paired with written stories:</p>
-  <!-- Inline, constrained video on the right -->
-  <div class="video-inline">
-    <iframe src="https://www.youtube.com/embed/cs7wvSViTAM" allowfullscreen title="Campaign video 1"></iframe>
-  </div>
-  <ul>
-    <li>Research excellence in maternal health</li>
-    <li>Healthy Start Program community impact, featuring the importance of fatherhood</li>
-    <li>Home Visiting Services and personalized care</li>
-    <li>Maternal Mental Health Hotline, featuring a personal postpartum depression journey</li>
-  </ul>
+<!-- Move the partner graphic up here -->
+<img src="/assets/images/BMHWsquarePartnerPurpose.jpg" alt="Partnering graphic" class="inline-img right">
+
+<p>The second year marked a significant expansion with a comprehensive, multi-channel approach that set new standards for HRSA's public health campaigns. The Vice President’s Office, HHS, HUD, state public health agencies, and community-based organizations engaged in the social media campaign.</p>
+
+<p><strong>Core Content:</strong> Four two-minute video vignettes, each paired with written stories:</p>
+
+<!-- Inline, constrained video on the right -->
+<div class="video-inline">
+  <iframe src="https://www.youtube.com/embed/cs7wvSViTAM" allowfullscreen title="Campaign video 1"></iframe>
+</div>
+
+<ul>
+  <li>Research excellence in maternal health</li>
+  <li>Healthy Start Program community impact, featuring the importance of fatherhood</li>
+  <li>Home Visiting Services and personalized care</li>
+  <li>Maternal Mental Health Hotline, featuring a personal postpartum depression journey</li>
+</ul>
+
 
   <p><strong>Innovation: Comprehensive Partnership Toolkit.</strong> For the first time, HRSA developed downloadable resources that partners could customize:</p>
   <!-- Second inline, constrained video on the right -->

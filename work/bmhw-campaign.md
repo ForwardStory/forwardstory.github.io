@@ -69,7 +69,7 @@ classes: work-page
 
 ## Campaign Overview
 
-- **Goal:** Raise awareness of Black maternal health disparities and position the Health Resources and Services Administration (HRSA) as a committed partner in advancing health equity.  
+- **Goal:** Raise awareness of Black maternal health disparities, position the Health Resources and Services Administration (HRSA) as a committed partner in advancing health equity, and encourage use of the National Maternal Health Hotline.  
 - **Audience:** Public health professionals, advocates, and organizations at federal, state, and local levels.  
 
 ---

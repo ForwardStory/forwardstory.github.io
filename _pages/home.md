@@ -224,5 +224,5 @@ toc: false
 <section id="contact">
 <h2>Contact</h2>
 <p>📍 Wherever there is wifi | Reach out if you'd like to collaborate, build clearer content, or explore AI tools for your team:</p>  
-<p>📬 <a href="mailto:katy@myforwardstory.com">katy@forwardstory.com</a></p>
+<p>📬 <a href="mailto:katy@myforwardstory.com">katy@myforwardstory.com</a></p>
 </section>

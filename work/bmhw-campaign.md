@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Black Maternal Health Campaign: A Thoughtful Evolution
+title: "Black Maternal Health Campaign: A Thoughtful Evolution"
 permalink: /work/bmhw-campaign/
 classes: work-page
 ---

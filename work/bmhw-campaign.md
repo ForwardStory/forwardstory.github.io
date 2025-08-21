@@ -6,59 +6,72 @@ classes: work-page
 ---
 
 <style>
-/* Banner styling */
+/* Page-local container for margins & width */
+.case {
+  max-width: 56rem;         /* ~896px: a nice middle ground */
+  margin: 0 auto;           /* centers content */
+  padding: 0 1.25rem;       /* inner side padding so text never hugs edges */
+  line-height: 1.6;
+}
+
+/* Banner: full-width image but not too tall */
 .banner img {
   width: 100%;
   height: auto;
+  max-height: 380px;        /* keep it from dominating the page */
+  object-fit: cover;        /* crop without distortion if tall */
   border-radius: 6px;
+  display: block;
   margin-bottom: 1.5rem;
 }
 
-/* Key Takeaways callout */
+/* Key Takeaways box */
 .key-takeaways {
   background: #f5f5f5;
   border-left: 4px solid #666;
   padding: 1rem 1.25rem;
   margin: 1.5rem 0;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
-/* Inline image helpers */
-.inline-img.left {
-  float: left;
-  max-width: 40%;
-  margin: 0 1.25rem 1rem 0;
+/* Constrain ALL images inside the case */
+.case img {
+  max-width: 100%;
+  height: auto;
 }
+
+/* Inline images: smaller by default */
+.inline-img.left,
 .inline-img.right {
-  float: right;
-  max-width: 40%;
-  margin: 0 0 1rem 1.25rem;
+  max-width: 38%;           /* reduce size so they don’t overwhelm text */
 }
+.inline-img.left  { float: left;  margin: 0 1.25rem 1rem 0; }
+.inline-img.right { float: right; margin: 0 0 1rem 1.25rem; }
+
+/* Responsive video embeds (16:9) */
+.video-embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  margin: 1.25rem auto;
+  max-width: 48rem;         /* cap video width ~768px */
+}
+.video-embed iframe {
+  position: absolute; top: 0; left: 0;
+  width: 100%; height: 100%;
+  border: 0; border-radius: 6px;
+}
+
+/* Mobile tweaks */
 @media (max-width: 768px) {
   .inline-img.left,
   .inline-img.right {
     float: none;
-    display: block;
     max-width: 100%;
     margin: 1rem auto;
+    display: block;
   }
-}
-
-/* Video embeds responsive */
-.video-embed {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 ratio */
-  padding-top: 25px;
-  height: 0;
-  margin: 1.5rem 0;
-}
-.video-embed iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border-radius: 6px;
+  .video-embed { max-width: 100%; }
 }
 </style>
 
@@ -66,6 +79,8 @@ classes: work-page
 <div class="banner">
   <img src="/assets/images/bmhw-2024-web-banner.jpg" alt="Campaign Banner">
 </div>
+
+<div class="case">
 
 ## Campaign Overview
 
@@ -139,3 +154,9 @@ The campaign’s dedicated webpage, *Strengthening Black Maternal Health*, becam
 
 ### Date last updated:
 August 2025
+---
+
+### Date last updated:
+August 2025
+
+</div> <!-- /case -->

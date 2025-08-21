@@ -3,7 +3,28 @@ layout: default
 title: More Work
 permalink: /work/
 ---
+<style>
+/* Scoped to this page only */
+#work {
+  /* 70ch ≈ ~70 characters per line: readable and centered */
+  max-width: 85ch;
+  margin: 0 auto;           /* centers the block = left/right margins */
+  padding: 0 1rem;          /* a little breathing room on the sides */
+}
 
+/* Niceties for headings and lists */
+#work h1, #work h2 { margin: 1.25rem 0 .5rem; }
+#work p { margin: 0 0 .75rem; line-height: 1.6; }
+#work ul { margin: .25rem 0 1rem; padding-left: 1.25rem; }
+#work li + li { margin-top: .35rem; }
+
+/* Optional: slightly wider on large screens, still centered */
+@media (min-width: 1200px) {
+  #work { max-width: 78ch; }
+}
+</style>
+
+<section id="work" markdown="1">
 
 # Listing of Work
 _This is a broad sample of projects. Details available upon request._

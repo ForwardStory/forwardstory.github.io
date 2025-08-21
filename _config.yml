@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: ForwardStory
 linkedin: https://www.linkedin.com/in/katy-karnell-839a217b/
 minimal_mistakes_skin: default
-search: true
+search: false
 # Use the navigation defined in _data/navigation.yml
 navigation:
   main: main

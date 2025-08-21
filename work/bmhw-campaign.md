@@ -97,8 +97,6 @@ classes: work-page
 
   <div class="hr"></div>
 
-</div><!-- /.case -->
-
 
   <h2>Campaign Evolution</h2>
 

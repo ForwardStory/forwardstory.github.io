@@ -80,9 +80,9 @@ toc: false
     Communications Strategist and Content Creator
   </p>
   <p><em>I can help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
-  Let’s work together to move from your <strong>BackStory</strong> to your <strong>ForwardStory!</strong></em></p> {% include feature_row id="intro" type="center" %}
-<p style="text-align:center; margin-top:1rem;">
-  <a href="mailto:katy@myforwardstory.com" class="btn btn--primary">Contact me</a>
+  Let’s work together to move from your <strong>BackStory</strong> to your <strong>ForwardStory!</strong></em></p> 
+<p style="text-align:right; margin-top:1rem;">
+  <a href="mailto:katy@myforwardstory.com" class="btn btn--primary">Contact me!</a>
 </p>
 </header>
 

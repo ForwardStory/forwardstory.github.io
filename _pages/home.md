@@ -80,8 +80,10 @@ toc: false
     Communications Strategist and Content Creator
   </p>
   <p><em>I can help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
-  Let’s work together to move from your BackStory to your ForwardStory!</em></p>
-<p>📬 <a href="mailto:katy@myforwardstory.com">katy@myforwardstory.com</a></p>
+  Let’s work together to move from your <strong>BackStory</strong> to your <strong>ForwardStory!</strong></em></p> {% include feature_row id="intro" type="center" %}
+<p style="text-align:center; margin-top:1rem;">
+  <a href="mailto:katy@myforwardstory.com" class="btn btn--primary">Contact me</a>
+</p>
 </header>
 
 <!-- Navigation Links -->
@@ -114,10 +116,11 @@ toc: false
 <section id="about">
   <h2>About Me</h2>
 
-  <p>I have a foundation in public health and a bias for action. I enjoy helping organizations reach their communication goals, using best practices, storytelling, and evolving AI tools. Across 3 continents and 6 countries, I’ve served clients and teams across the government, academic, private, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. My approach is grounded in integrity, creativity, and service to people.</p>
+  <p>I have a foundation in <strong>public health</strong> and a <strong>bias for action</strong>. I enjoy helping organizations reach their communication goals, using best practices, storytelling, and evolving AI tools.</p>
 
   <details class="expander" id="about-expander">
     <summary>Learn a little more about me <span class="plus" aria-hidden="true">+</span></summary>
+  <p>Across 3 continents and 6 countries, I’ve served clients and teams across the government, academic, private, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. My approach is grounded in integrity, creativity, and service to people.</p>
 
     <p>I have helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, speaking engagements, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
 
@@ -141,7 +144,7 @@ toc: false
 <!-- Featured Work -->
 <section id="portfolio">
 <h2>Portfolio</h2>
-<p>Over the course of my career, I’ve created varied products from educational documentaries, social media campaigns, press releases, talking points, and written stories to website overhauls, newsletters, and fact sheets. I’ve designed and delivered training. These sample projects reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done? <a href="/work/">Access a list of sample projects</a>. Or, <a href="/assets/ForwardStoryResumeAug2025.pdf">view my resume</a>.
+<p>Here are a few projects that reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done? <a href="/work/">Access a list of sample projects</a>. Or, <a href="/assets/ForwardStoryResumeAug2025.pdf">view my resume</a>.
 
 <div class="card-grid" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5em;">
 

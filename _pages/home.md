@@ -72,9 +72,9 @@ toc: false
 }
 /* Page-local photo credits (homepage only) */
 .photo-credits {
-  font-size: 0.9em;
-  color: #666;
-  text-align: center;
+  font-size: 0.8em;
+  color: #888;
+  text-align: left;
   margin: 2rem auto 0;
   padding-top: 1rem;
   border-top: 1px solid #e5e5e5; /* soft divider */
@@ -243,17 +243,7 @@ toc: false
 </section>
 
 <footer class="photo-credits" aria-label="Photo credits">
-  <p>
-    Cruise line photo by
-    <a href="https://unsplash.com/@alonsoreyes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank" rel="noopener">Alonso Reyes</a>
-    on
-    <a href="https://unsplash.com/photos/white-ship-on-sea-during-sunset-haZNHEV2WXQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank" rel="noopener">Unsplash</a>.
-  </p>
-  <p>
-    Movie clapper photo by
-    <a href="https://unsplash.com/@amjiths?utm_content=credit" target="_blank" rel="noopener">Amjith S</a>
-    on
-    <a href="https://unsplash.com/photos/a-person-holding-a-clapstick-in-their-hand-6ZUiox8TqtY" target="_blank" rel="noopener">Unsplash</a>.
+  <p> Photo credits: cruise line photo by <a href="https://unsplash.com/@alonsoreyes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank" rel="noopener">Alonso Reyes</a> and movie clapper photo by <a href="https://unsplash.com/@amjiths?utm_content=credit" target="_blank" rel="noopener">Amjith S</a>, both on <a href="https://unsplash.com/photos/a-person-holding-a-clapstick-in-their-hand-6ZUiox8TqtY" target="_blank" rel="noopener">Unsplash</a>.
   </p>
 </footer>
 

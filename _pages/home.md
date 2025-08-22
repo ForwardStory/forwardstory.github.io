@@ -70,6 +70,18 @@ toc: false
     gap: 0.875rem !important;               /* a touch tighter on phones */
   }
 }
+/* Page-local photo credits (homepage only) */
+.photo-credits {
+  font-size: 0.9em;
+  color: #666;
+  text-align: center;
+  margin: 2rem auto 0;
+  padding-top: 1rem;
+  border-top: 1px solid #e5e5e5; /* soft divider */
+  max-width: 60rem; /* keeps it aligned with main content */
+}
+.photo-credits a { color: #666; text-decoration: underline; }
+.photo-credits a:hover { color: #333; }
 
 </style>
 
@@ -229,3 +241,19 @@ toc: false
 <p>📍 Wherever there is wifi | Reach out if you'd like to collaborate, build clearer content, or explore AI tools for your team:</p>  
 <p>📬 <a href="mailto:katy@myforwardstory.com">katy@myforwardstory.com</a></p>
 </section>
+
+<footer class="photo-credits" aria-label="Photo credits">
+  <p>
+    Cruise line photo by
+    <a href="https://unsplash.com/@alonsoreyes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank" rel="noopener">Alonso Reyes</a>
+    on
+    <a href="https://unsplash.com/photos/white-ship-on-sea-during-sunset-haZNHEV2WXQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank" rel="noopener">Unsplash</a>.
+  </p>
+  <p>
+    Movie clapper photo by
+    <a href="https://unsplash.com/@amjiths?utm_content=credit" target="_blank" rel="noopener">Amjith S</a>
+    on
+    <a href="https://unsplash.com/photos/a-person-holding-a-clapstick-in-their-hand-6ZUiox8TqtY" target="_blank" rel="noopener">Unsplash</a>.
+  </p>
+</footer>
+

@@ -81,7 +81,7 @@ toc: false
   </p>
   <p><em>I can help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
   Let’s work together to move from your <strong>BackStory</strong> to your <strong>ForwardStory!</strong></em></p> 
-<p style="text-align:right; margin-top:1rem;">
+<p style="text-align:left; margin-top:1rem;">
   <a href="mailto:katy@myforwardstory.com" class="btn btn--primary">Contact me!</a>
 </p>
 </header>

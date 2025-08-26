@@ -104,6 +104,15 @@ toc: false
 @media (max-width: 900px) {
   .two-col-hero { grid-template-columns: 1fr; }
 }
+  
+/* Align hero tagline with Services heading */
+.two-col-hero .hero p:first-of-type {
+  font-size: 1.2em;          /* keep your current size */
+  font-weight: 600;          /* make it heading-like */
+  margin: 0.5rem 0 0.75rem;  /* push it down slightly to align */
+  border-bottom: 1px solid #e5e5e5; /* add the subtle grey underline */
+  padding-bottom: 0.25rem;   /* space above the line */
+}
 
 </style>
 

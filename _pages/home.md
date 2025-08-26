@@ -112,15 +112,7 @@ toc: false
   margin: 0.5rem 0 0.75rem;  /* push it down slightly to align */
   border-bottom: 1px solid #e5e5e5; /* add the subtle grey underline */
   padding-bottom: 0.25rem;   /* space above the line */
-}
-/* Hero subtitle styling */
-.hero-subtitle {
-  font-size: 1.3em;                 /* slightly smaller than normal H2 */
-  font-weight: 500;                 /* lighter weight */
-  margin: 0.5rem 0 0.75rem;         /* space above and below */
-  border-bottom: 1px solid #e5e5e5; /* subtle grey underline */
-  padding-bottom: 0.25rem;          /* spacing for the underline */
-  line-height: 1.3;
+
 }
 
 </style>
@@ -132,7 +124,6 @@ toc: false
   <header class="hero">
     <h1 style="margin-bottom: 0;">Kathryn Karnell</h1>
     <h2 class="hero-subtitle">Communications Strategist and Content Creator</h2>
-    </p>
     <p><em>I can help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
     Let’s work together to move from your <strong>BackStory</strong> to your <strong>ForwardStory!</strong></em></p>
     <a href="mailto:katy@myforwardstory.com" class="btn btn--primary">Contact me!</a>

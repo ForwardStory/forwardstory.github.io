@@ -105,8 +105,7 @@ toc: false
   <h2>What I Can Do for You</h2>
 
   <p>
-    I can work with you and your team to clarify your communication goals and develop a strategy that gets you where you want to go.
-    When you bring me in, I’ll assess what’s working, identify the gaps, and deliver a tailored package of messaging, content, and tools that help you reach your goals — clearly, effectively, and with your audience in mind.
+    Together, we’ll establish clear communication goals and build a strategy that moves you toward success. You’ll have a clear view of what’s working, insight into areas for improvement, and a tailored set of messaging, content, and tools designed to strengthen audience connection and deliver measurable impact.
   </p>
 
   <details class="expander" id="services-expander">
@@ -121,36 +120,6 @@ toc: false
     <p class="exp-note"><em>Need something not listed here? Let’s talk – I will shape my services around your needs.</em></p>
   </details>
 </section>
-
-
-
-<!-- About -->
-<section id="about">
-  <h2>About Me</h2>
-
-  <p>I have a foundation in <strong>public health</strong> and a <strong>bias for action</strong>. I enjoy helping organizations reach their communication goals, using best practices, storytelling, and evolving AI tools.</p>
-
-  <details class="expander" id="about-expander">
-    <summary>Learn a little more about me <span class="plus" aria-hidden="true">+</span></summary>
-  <p>Across 3 continents and 6 countries, I’ve served clients and teams across the government, academic, private, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. My approach is grounded in integrity, creativity, and service to people.</p>
-
-    <p>I have helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, speaking engagements, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
-
-    <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
-
-    <p><strong>My motto:</strong> <em>Practice makes progress.</em></p>
-
-    <p><strong>Core Values and Strengths:</strong></p>
-    <ul class="about-list">
-      <li>Adaptability</li>
-      <li>Commitment</li>
-      <li>Relationships</li>
-      <li>Integrity</li>
-      <li>Courage</li>
-    </ul>
-  </details>
-</section>
-
 
 
 <!-- Featured Work -->
@@ -234,6 +203,32 @@ toc: false
   </details>
 </section>
 
+<!-- About -->
+<section id="about">
+  <h2>About Me</h2>
+
+  <p>I have a foundation in <strong>public health</strong> and a <strong>bias for action</strong>. I enjoy helping organizations reach their communication goals, using best practices, storytelling, and evolving AI tools.</p>
+
+  <details class="expander" id="about-expander">
+    <summary>Learn a little more about me <span class="plus" aria-hidden="true">+</span></summary>
+  <p>Across 3 continents and 6 countries, I’ve served clients and teams across the government, academic, private, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. My approach is grounded in integrity, creativity, and service to people.</p>
+
+    <p>I have helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, speaking engagements, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
+
+    <p>I don’t overpromise. I help you figure out what’s essential, what’s working, and what needs to change — then I help you do something about it.</p>
+
+    <p><strong>My motto:</strong> <em>Practice makes progress.</em></p>
+
+    <p><strong>Core Values and Strengths:</strong></p>
+    <ul class="about-list">
+      <li>Adaptability</li>
+      <li>Commitment</li>
+      <li>Relationships</li>
+      <li>Integrity</li>
+      <li>Courage</li>
+    </ul>
+  </details>
+</section>
 
 <!-- Contact -->
 <section id="contact">

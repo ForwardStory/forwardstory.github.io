@@ -83,43 +83,66 @@ toc: false
 .photo-credits a { color: #666; text-decoration: underline; }
 .photo-credits a:hover { color: #333; }
 
+  /* ===== Two-column layout for Hero + Services only ===== */
+.two-col-hero {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;          /* slight emphasis on the Hero column */
+  gap: clamp(1rem, 3vw, 2rem);
+  align-items: start;
+  margin-block: 1.5rem;                        /* breathing room above/below */
+}
+
+/* Tidy native spacing so these two sit nicely together */
+.two-col-hero .hero { margin: 0; padding: 0; }
+.two-col-hero #services { margin: 0; }
+.two-col-hero details.expander { width: 100%; }
+
+/* Make the hero button look good even if it wraps */
+.two-col-hero .hero a.btn { display: inline-block; margin-top: .75rem; }
+
+/* Collapse to one column on smaller screens */
+@media (max-width: 900px) {
+  .two-col-hero { grid-template-columns: 1fr; }
+}
+
 </style>
 
-<!-- Hero Section -->
-<header class="hero">
-  <h1 style="margin-bottom: 0;">Kathryn Karnell</h1>
-  <p style="font-size: 1.2em; margin-top: 0;">
-    Communications Strategist and Content Creator
-  </p>
-  <p><em>I can help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
-  Let’s work together to move from your <strong>BackStory</strong> to your <strong>ForwardStory!</strong></em></p> 
-<p style="text-align:left; margin-top:1rem;">
-  <a href="mailto:katy@myforwardstory.com" class="btn btn--primary">Contact me!</a>
-</p>
-</header>
+<!-- Hero + Services in a 2-column layout -->
+<div class="two-col-hero">
 
-<!-- Navigation Links -->
-<nav class="jump-links">
-<!-- What I Do -->
-<section id="services">
-  <h2>What I Can Do for You</h2>
+  <!-- Hero Section -->
+  <header class="hero">
+    <h1 style="margin-bottom: 0;">Kathryn Karnell</h1>
+    <p style="font-size: 1.2em; margin-top: 0;">
+      Communications Strategist and Content Creator
+    </p>
+    <p><em>I can help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
+    Let’s work together to move from your <strong>BackStory</strong> to your <strong>ForwardStory!</strong></em></p>
+    <a href="mailto:katy@myforwardstory.com" class="btn btn--primary">Contact me!</a>
+  </header>
 
-  <p>
-    Together, we’ll establish clear communication goals and build a strategy that moves you toward success. You’ll have a clear view of what’s working, insight into areas for improvement, and a tailored set of messaging, content, and tools designed to strengthen audience connection and deliver measurable impact.
-  </p>
+  <!-- Services -->
+  <section id="services">
+    <h2>What I Can Do for You</h2>
 
-  <details class="expander" id="services-expander">
-    <summary>Core services include: <span class="plus" aria-hidden="true">+</span></summary>
+    <p>
+      Together, we’ll establish clear communication goals and build a strategy that moves you toward success. You’ll have a clear view of what’s working, insight into areas for improvement, and a tailored set of messaging, content, and tools designed to strengthen audience connection and deliver measurable impact.
+    </p>
 
-    <ul class="service-list">
-      <li><strong>💡 Content Strategy &amp; Planning</strong> — I will review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>
-      <li><strong>✏️ Messaging &amp; Content Packages</strong> — Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</li>
-      <li><strong>🤖 AI Integration &amp; Team Training</strong> — Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.</li>
-    </ul>
+    <details class="expander" id="services-expander">
+      <summary>Core services include: <span class="plus" aria-hidden="true">+</span></summary>
 
-    <p class="exp-note"><em>Need something not listed here? Let’s talk – I will shape my services around your needs.</em></p>
-  </details>
-</section>
+      <ul class="service-list">
+        <li><strong>💡 Content Strategy &amp; Planning</strong> — I will review your content ecosystem, audit what's working, and develop a roadmap to align content with your brand and audience needs.</li>
+        <li><strong>✏️ Messaging &amp; Content Packages</strong> — Marketing materials, website content, newsletters, executive messaging, campaign copy, or storytelling frameworks — all tailored to your voice, audience, and goals.</li>
+        <li><strong>🤖 AI Integration &amp; Team Training</strong> — Many workplaces feel pressure to use AI without a clear path. I help teams build literacy, pick the right tools, and use AI to create better, more efficient content — with intention, not urgency.</li>
+      </ul>
+
+      <p class="exp-note"><em>Need something not listed here? Let’s talk – I will shape my services around your needs.</em></p>
+    </details>
+  </section>
+
+</div><!-- /.two-col-hero -->
 
 
 <!-- Featured Work -->

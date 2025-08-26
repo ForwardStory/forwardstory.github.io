@@ -1,11 +1,11 @@
 main:
   - title: "Services"
     url: /#services
-  - title: "About"
-    url: /#about
   - title: "Portfolio"
     url: /#portfolio
   - title: "Training"
     url: /#training
+  - title: "About"
+    url: /#about
   - title: "Contact"
     url: /#contact

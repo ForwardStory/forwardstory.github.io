@@ -116,12 +116,19 @@ toc: false
 }
 /* Hero subtitle styling */
 .hero-subtitle {
-  font-size: 1.3em;                 /* slightly smaller than normal H2 */
-  font-weight: 500;                 /* lighter weight */
-  margin: 0.5rem 0 0.75rem;         /* space above and below */
-  border-bottom: 1px solid #e5e5e5; /* subtle grey underline */
-  padding-bottom: 0.25rem;          /* spacing for the underline */
+  font-size: 1.1em;                /* smaller font */
+  font-weight: 500;
+  margin: 0.5rem 0 0.5rem;         /* less space below subtitle */
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 0.25rem;
   line-height: 1.3;
+}
+
+/* Reduce space above the button so it's closer to the subtitle */
+.two-col-hero .hero a.btn {
+  display: inline-block;
+  margin-top: 0.5rem;             /* was .75rem */
+}
 
 </style>
 

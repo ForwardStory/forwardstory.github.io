@@ -38,9 +38,9 @@ include:
 
 header_pages:
   - _pages/home.md
-  - _pages/about.md
   - _pages/portfolio.md
   - _pages/training.md
+  - _pages/about.md
   - _pages/contact.md
 
 

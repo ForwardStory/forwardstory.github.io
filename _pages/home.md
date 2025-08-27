@@ -109,7 +109,6 @@ toc: false
   font-size: 1.2em;          /* keep your current size */
   font-weight: 600;          /* make it heading-like */
   margin: 0.5rem 0 0.75rem;  /* push it down slightly to align */
-  border-bottom: 1px solid #e5e5e5; /* add the subtle grey underline */
   padding-bottom: 0.25rem;   /* space above the line */
   
 }
@@ -118,7 +117,6 @@ toc: false
   font-size: 1.1em;                /* smaller font */
   font-weight: 500;
   margin: 0.5rem 0 0.5rem;         /* less space below subtitle */
-  border-bottom: 1px solid #e5e5e5;
   padding-bottom: 0.25rem;
   line-height: 1.3;
 }

@@ -106,8 +106,8 @@ toc: false
   
 /* Align hero tagline with Services heading */
 .two-col-hero .hero p:first-of-type {
-  font-size: 1.2em;          /* keep your current size */
-  font-weight: 600;          /* make it heading-like */
+  font-size: .9em;          /* keep your current size */
+  font-weight: 500;          /* make it heading-like */
   margin: 0.5rem 0 0.75rem;  /* push it down slightly to align */
   padding-bottom: 0.25rem;   /* space above the line */
   
@@ -130,7 +130,7 @@ toc: false
 .hero-highlight {
   background-color: #f7f7f7;
   padding: 2rem 1.5rem 2rem 1.2rem; 
-  border-radius: 8px;
+  border-radius: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
   max-width: 100%;
 }
@@ -139,7 +139,7 @@ toc: false
 .hero-highlight p {
   line-height: 1.5;
   margin-top: 0.75rem;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
   margin-top: 0.75rem;
 }
   

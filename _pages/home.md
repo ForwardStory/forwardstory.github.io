@@ -77,7 +77,6 @@ toc: false
   text-align: left;
   margin: 2rem auto 0;
   padding-top: 1rem;
-  border-top: 1px solid #e5e5e5; /* soft divider */
   max-width: 60rem; /* keeps it aligned with main content */
 }
 .photo-credits a { color: #666; text-decoration: underline; }

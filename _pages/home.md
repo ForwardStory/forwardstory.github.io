@@ -106,8 +106,8 @@ toc: false
   
 /* Align hero tagline with Services heading */
 .two-col-hero .hero p:first-of-type {
-  font-size: .9em;          /* keep your current size */
-  font-weight: 500;          /* make it heading-like */
+  font-size: 1.0em;          /* keep your current size */
+  font-weight: 600;          /* make it heading-like */
   margin: 0.5rem 0 0.75rem;  /* push it down slightly to align */
   padding-bottom: 0.25rem;   /* space above the line */
   

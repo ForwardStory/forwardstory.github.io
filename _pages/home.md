@@ -140,6 +140,12 @@ toc: false
   line-height: 1.5;
   margin-top: 0.75rem;
 }
+.hero-highlight p {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  margin-top: 0.75rem;
+}
+  
 
 </style>
 

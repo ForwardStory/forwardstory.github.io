@@ -129,22 +129,40 @@ toc: false
   display: inline-block;
   margin-top: 0.5rem;             /* was .75rem */
 }
+/* Soft grey card-style wrapper for Hero column */
+.hero-highlight {
+  background-color: #f7f7f7;
+  padding: 2rem 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
+  max-width: 100%;
+}
+
+/* Optional: tighten the line spacing in the Hero card for a compact look */
+.hero-highlight p {
+  line-height: 1.5;
+  margin-top: 0.75rem;
+}
 
 </style>
 
 <!-- Hero + Services in a 2-column layout -->
 <div class="two-col-hero">
 
-  <!-- Hero Section -->
-  <header class="hero">
-    <h1 style="margin-bottom: 0;">Kathryn Karnell</h1>
-    <h2 class="hero-subtitle">Communications Strategist and Content Creator</h2>
-    
-    <a href="mailto:katy@myforwardstory.com" class="btn btn--primary" style="margin-bottom: 1rem;">Contact me!</a>
-    
-    <p><em>I can help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize quality and achieve measurable success.
-    Let’s work together to move from your <strong>BackStory</strong> to your <strong>ForwardStory!</strong></em></p>
-  </header>
+ <!-- Hero Section with Soft Grey Background -->
+<header class="hero hero-highlight">
+  <h1 style="margin-bottom: 0;">Kathryn Karnell</h1>
+  <h2 class="hero-subtitle">Communications Strategist and Content Creator</h2>
+
+  <a href="mailto:katy@myforwardstory.com" class="btn btn--primary" style="margin-bottom: 1rem;">Contact me!</a>
+
+  <p><em>
+    I can help you clarify your goals, create content, and achieve results.
+    As your human in the loop, I adapt & evolve with the latest technology to optimize quality and achieve measurable success.
+    Let’s work together to move from your <strong>BackStory</strong> to your <strong>ForwardStory!</strong>
+  </em></p>
+</header>
+
 
   <!-- Services -->
   <section id="services">

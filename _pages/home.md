@@ -89,7 +89,6 @@ toc: false
   gap: clamp(1rem, 3vw, 2rem);
   align-items: start;
   margin-block: 1.5rem;                        /* breathing room above/below */
-  padding-inline-start: clamp(1rem, 3vw, 2rem); /* left */
 }
 
 /* Tidy native spacing so these two sit nicely together */
@@ -149,6 +148,12 @@ toc: false
 
 <!-- Hero + Services in a 2-column layout -->
 <div class="two-col-hero">
+  <div class="two-col-hero__inner">
+    <!-- left col --> 
+    <!-- right col -->
+  </div>
+</div>
+
 
  <!-- Hero Section with Soft Grey Background -->
 <header class="hero hero-highlight">

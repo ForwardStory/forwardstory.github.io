@@ -148,12 +148,6 @@ toc: false
 
 <!-- Hero + Services in a 2-column layout -->
 <div class="two-col-hero">
-  <div class="two-col-hero__inner">
-    <!-- left col --> 
-    <!-- right col -->
-  </div>
-</div>
-
 
  <!-- Hero Section with Soft Grey Background -->
 <header class="hero hero-highlight">

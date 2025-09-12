@@ -89,6 +89,7 @@ toc: false
   gap: clamp(1rem, 3vw, 2rem);
   align-items: start;
   margin-block: 1.5rem;                        /* breathing room above/below */
+  padding-inline-start: clamp(1rem, 3vw, 2rem); /* left */
 }
 
 /* Tidy native spacing so these two sit nicely together */

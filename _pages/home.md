@@ -129,7 +129,7 @@ toc: false
 /* Soft grey card-style wrapper for Hero column */
 .hero-highlight {
   background-color: #f7f7f7;
-  padding: 2rem 1.5rem 2rem 0.75rem; 
+  padding: 2rem 1.5rem 2rem 0.25rem; 
   border-radius: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
   max-width: 100%;

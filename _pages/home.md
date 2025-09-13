@@ -92,12 +92,17 @@ toc: false
 }
 
 /* Tidy native spacing so these two sit nicely together */
-.two-col-hero .hero { margin: 0; padding: 0; }
+.two-col-hero .hero { margin: 0; }
 .two-col-hero #services { margin: 0; }
 .two-col-hero details.expander { width: 100%; }
 
 /* Make the hero button look good even if it wraps */
 .two-col-hero .hero a.btn { display: inline-block; margin-top: .75rem; }
+
+/* ⬇️ NEW: nudge text left inside the grey hero card (the card itself doesn’t move) */
+.two-col-hero .hero.hero-highlight {
+  padding-left: clamp(0.5rem, 1.2vw, 0.9rem);  /* adjust to taste */
+}
 
 /* Collapse to one column on smaller screens */
 @media (max-width: 900px) {

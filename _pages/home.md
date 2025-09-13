@@ -127,9 +127,9 @@ toc: false
   margin-top: 0.5rem;             /* was .75rem */
 }
 /* Soft grey card-style wrapper for Hero column */
-.hero-highlight > * { margin-inline-start: -0.25rem; } /* adjust to taste */
+.hero-highlight {
   background-color: #f7f7f7;
-  padding: 2rem 1.5rem 2rem 1.2rem; 
+  padding: 2rem 1.5rem 2rem clamp(0.5rem, 1.2vw, 0.9rem);
   border-radius: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
   max-width: 100%;

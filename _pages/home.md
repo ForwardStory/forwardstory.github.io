@@ -219,18 +219,18 @@ toc: false
 
   <!-- Card 2 -->
   <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
-    <img src="/assets/images/Destiny600X315.jpg" alt="Doula story thumbnail" style="width: 100%; border-radius: 6px;">
-    <h4><em>This is Destiny</em> – The Power of Doula Care for Better Health</h4>
-    <p>Doula Kianna's support helped mom Regina advocate for her needs, foster positive relationships with her medical teams, and achieve improved physical and mental health.</p>
-    <p><a href="./assets/ThisIsDestiny.pdf">Read the story</a></p>
-  </div>
-
-  <!-- Card 3 -->
-  <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
     <img src="/assets/images/NSCH1200X630.jpg" alt="NSCH thumbnail" style="width: 100%; border-radius: 6px;">
     <h4>National Survey of Children's Health - Branding Video</h4>
     <p>Designed this video to raise awareness of this survey, strengthen public trust in the agency behind it, and encourage participation from parents and caregivers.</p>
     <p><a href="https://youtu.be/U0an1xbKXkA">Watch video</a></p>
+  </div>
+
+  <!-- Card 3 -->
+    <div class="card" style="flex: 1 1 calc(33% - 1em); box-shadow: 0 0 5px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; background: #fff; padding: 1em;">
+    <img src="/assets/images/Destiny600X315.jpg" alt="Doula story thumbnail" style="width: 100%; border-radius: 6px;">
+    <h4><em>This is Destiny</em> – The Power of Doula Care for Better Health</h4>
+    <p>Doula Kianna's support helped mom Regina advocate for her needs, foster positive relationships with her medical teams, and achieve improved physical and mental health.</p>
+    <p><a href="./assets/ThisIsDestiny.pdf">Read the story</a></p>
   </div>
 
   <!-- Card 4 -->
@@ -291,7 +291,7 @@ toc: false
 
   <details class="expander" id="about-expander">
     <summary>Learn a little more about me <span class="plus" aria-hidden="true">+</span></summary>
-  <p>Across 3 continents and 6 countries, I’ve served clients and teams across the government, academic, private, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. My approach is grounded in integrity, creativity, and service to people.</p>
+  <p>Across 3 continents and 7 countries, I’ve served clients and teams across the government, academic, private, and global health sectors—including CDC, Deloitte, USAID, Peace Corps, University of Washington, and Johns Hopkins—by translating complex ideas into clear, human-centered narratives. My approach is grounded in integrity, creativity, and service to people.</p>
 
     <p>I have helped teams define their core messages, write for multiple audiences, and manage the content needed for newsletters, websites, speaking engagements, and campaigns. I’ve also led training sessions and supported teams as they adapt to organizational needs or new tools — like AI — to improve their workflows and outcomes.</p>
 

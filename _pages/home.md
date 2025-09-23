@@ -6,6 +6,9 @@ author_profile: false
 classes: wide
 toc: false
 ---
+<h1 class="site-title" style="text-align: center; margin-bottom: 30px;">
+  <span style='color:#368091'>forward</span><span style='color:#1D4EA2'>story</span>
+</h1>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J581RRVGPQ"></script>
 <script>

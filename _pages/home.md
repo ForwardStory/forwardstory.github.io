@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 toc: false
 header:
-  og_image: /assets/images/Butterfly.png
+  og_image: /assets/images/Butterfly300dpiWhite.png
 ---
 
 <meta property="og:image" content="https://www.myforwardstory.com/assets/images/Butterfly.png">

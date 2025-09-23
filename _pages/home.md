@@ -145,7 +145,7 @@ toc: false
 }
 /* Soft grey card-style wrapper for Hero column */
 .hero-highlight {
-  background-color: #f7f7f7;
+  background-color: #E6FFFD;
   padding: 2rem 1.5rem 2rem clamp(0.5rem, 1.2vw, 0.9rem);
   border-radius: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);

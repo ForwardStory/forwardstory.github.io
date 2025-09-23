@@ -33,12 +33,7 @@ header:
 </script>
 
 <style>
-/* Force white background for social media previews */
-body, html {
-  background-color: white !important;
-}
-
-/* Ensure header area is white for social media crawlers */
+/* Ensure only header area is white for social media crawlers */
 .masthead, header, .site-header {
   background-color: white !important;
 }

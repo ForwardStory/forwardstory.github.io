@@ -8,19 +8,41 @@ toc: false
 header:
   og_image: /assets/images/Butterfly.png
 ---
+
+<meta property="og:image" content="https://www.myforwardstory.com/assets/images/Butterfly.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Forward Story Logo">
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-navbutton-color" content="#ffffff">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta property="twitter:image" content="https://www.myforwardstory.com/assets/images/Butterfly.png">
+<meta property="twitter:card" content="summary_large_image">
+
 <h1 class="site-title" style="text-align: center; margin-bottom: 30px;">
   <span style='color:#368091'>forward</span><span style='color:#1D4EA2'>story</span>
 </h1>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J581RRVGPQ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-J581RRVGPQ');
 </script>
+
 <style>
+/* Force white background for social media previews */
+body, html {
+  background-color: white !important;
+}
+
+/* Ensure header area is white for social media crawlers */
+.masthead, header, .site-header {
+  background-color: white !important;
+}
+
 /* ============ Universal expander behavior (Services, About, Training) ============ */
 .expander summary {
   display: flex;                 /* lets us push the right icon to the edge */
@@ -113,7 +135,7 @@ header:
 /* Make the hero button look good even if it wraps */
 .two-col-hero .hero a.btn { display: inline-block; margin-top: .75rem; }
 
-/* ⬇️ NEW: nudge text left inside the grey hero card (the card itself doesn’t move) */
+/* ⬇️ NEW: nudge text left inside the grey hero card (the card itself doesn't move) */
 .two-col-hero .hero.hero-highlight {
   padding-left: clamp(0.5rem, 1.2vw, 0.9rem);  /* adjust to taste */
 }
@@ -145,7 +167,8 @@ header:
   display: inline-block;
   margin-top: 0.5rem;             /* was .75rem */
 }
-/* Soft grey card-style wrapper for Hero column */
+
+/* Soft teal card-style wrapper for Hero column */
 .hero-highlight {
   background-color: #E6FFFD;
   padding: 2rem 1.5rem 2rem clamp(0.5rem, 1.2vw, 0.9rem);
@@ -161,7 +184,6 @@ header:
   font-size: 1.2rem;
   margin-top: 0.75rem;
 }
-  
 
 </style>
 

@@ -5,6 +5,8 @@ permalink: /
 author_profile: false
 classes: wide
 toc: false
+header:
+  og_image: /assets/images/Butterfly.png
 ---
 <h1 class="site-title" style="text-align: center; margin-bottom: 30px;">
   <span style='color:#368091'>forward</span><span style='color:#1D4EA2'>story</span>

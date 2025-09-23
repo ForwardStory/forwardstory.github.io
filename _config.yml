@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 logo: /assets/images/Butterfly.png
-title: "<span style='color:#368091'>forward</span><span style='color:#1D4EA2'>story</span>"
+title: forwardstory
 email: ForwardStory@gmail.com
 url: "https://www.myforwardstory.com"
 description: >- # this means to ignore newlines until "baseurl:"

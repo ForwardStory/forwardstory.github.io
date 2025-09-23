@@ -21,6 +21,20 @@ description: >- # this means to ignore newlines until "baseurl:"
   I help you clarify your goals, create content, and achieve results. As your human in the loop, I adapt & evolve with the latest technology to optimize content quality and achieve measurable success.
 github_username: ForwardStory
 linkedin: https://www.linkedin.com/in/katy-karnell-839a217b/
+
+# Social sharing defaults
+og_image: /assets/images/Butterfly.png
+twitter:
+  card: summary
+  image: /assets/images/Butterfly.png
+social:
+  name: Forward Story
+  links:
+    - https://www.linkedin.com/in/katy-karnell-839a217b/
+    - https://github.com/ForwardStory
+
+# SEO settings
+author: Forward Story
 minimal_mistakes_skin: default
 search: false
 # Use the navigation defined in _data/navigation.yml

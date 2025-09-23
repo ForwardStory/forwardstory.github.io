@@ -9,13 +9,13 @@ header:
   og_image: /assets/images/Butterfly300dpiWhite.png
 ---
 
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Forward Story Logo">
-<meta name="theme-color" content="#ffffff">
-<meta name="msapplication-navbutton-color" content="#ffffff">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta property="twitter:card" content="summary_large_image">
+<meta property="og:title" content="Forward Story">
+<meta property="og:description" content="I help you clarify your goals, create content, and achieve results.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.myforwardstory.com">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:title" content="Forward Story">
+<meta property="twitter:description" content="I help you clarify your goals, create content, and achieve results.">
 
 <h1 class="site-title" style="text-align: center; margin-bottom: 30px;">
   <span style='color:#368091'>forward</span><span style='color:#1D4EA2'>story</span>
@@ -31,11 +31,6 @@ header:
 </script>
 
 <style>
-/* Ensure only header area is white for social media crawlers */
-.masthead, header, .site-header {
-  background-color: white !important;
-}
-
 /* ============ Universal expander behavior (Services, About, Training) ============ */
 .expander summary {
   display: flex;                 /* lets us push the right icon to the edge */
@@ -128,7 +123,7 @@ header:
 /* Make the hero button look good even if it wraps */
 .two-col-hero .hero a.btn { display: inline-block; margin-top: .75rem; }
 
-/* ⬇️ NEW: nudge text left inside the grey hero card (the card itself doesn't move) */
+/* ⬇️ NEW: nudge text left inside the hero card (the card itself doesn't move) */
 .two-col-hero .hero.hero-highlight {
   padding-left: clamp(0.5rem, 1.2vw, 0.9rem);  /* adjust to taste */
 }
@@ -163,7 +158,7 @@ header:
 
 /* Soft teal card-style wrapper for Hero column */
 .hero-highlight {
-  background-color: #E6FFFD;
+  background-color: #D9F7F4;
   padding: 2rem 1.5rem 2rem clamp(0.5rem, 1.2vw, 0.9rem);
   border-radius: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);

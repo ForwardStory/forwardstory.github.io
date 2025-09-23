@@ -9,14 +9,12 @@ header:
   og_image: /assets/images/Butterfly300dpiWhite.png
 ---
 
-<meta property="og:image" content="https://www.myforwardstory.com/assets/images/Butterfly.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Forward Story Logo">
 <meta name="theme-color" content="#ffffff">
 <meta name="msapplication-navbutton-color" content="#ffffff">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta property="twitter:image" content="https://www.myforwardstory.com/assets/images/Butterfly.png">
 <meta property="twitter:card" content="summary_large_image">
 
 <h1 class="site-title" style="text-align: center; margin-bottom: 30px;">

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: ""
+title: false
 permalink: /
 author_profile: false
 classes: wide

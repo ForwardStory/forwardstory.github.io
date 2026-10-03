@@ -220,7 +220,7 @@ header:
 <!-- Featured Work -->
 <section id="portfolio">
 <h2>Portfolio</h2>
-<p>Here are a few projects that reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done? <a href="/work/">Access a list of sample projects</a>. Or, <a href="/assets/202603-ForwardStoryResume.pdf">view my resume</a>.
+<p>Here are a few projects that reflect a blend of content strategy, messaging development, and AI-assisted delivery. Curious about what else I've done? <a href="/work/">Access a list of sample projects</a>.
 
 <div class="card-grid" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5em;">
 
